@@ -5,7 +5,11 @@ _Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) progra
 
 ## EDUCATION
 Ph.D., Measurement, Evaluation, and Data Science  
-[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html)
+[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) <br>  
+  
+M.Ed., Educational Psychology 
+[Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) <br>  
+
 
 
 ## AWARDS
