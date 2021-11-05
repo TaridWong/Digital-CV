@@ -85,8 +85,8 @@ Thammasat University, Thailand.
     -  Developed a key-event timeline of Alberta public health response from news search  <br>
   
 ## PROFESSIONAL WORKSHOP AND TRAINING
-  - McCrudden, M. (2019). _Mixed methods research workshop_. Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
-  
+  - McCrudden, M. (2019). [_Mixed methods research workshop_](https://user-images.githubusercontent.com/93608415/140589068-ea08232e-2136-4bc8-85c0-96b0cde79708.jpg). Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
+
 ## PROFESSIONAL CERTIFICATES  
   - [Datacamp Data Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588552-abfd75eb-49f2-4df4-a171-8b8e707a1592.jpg), Datacamp, 2021  
   - [Datacamp Machine learning scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588668-f6550297-52b0-423f-90c4-d79b44431f58.jpg), Datacamp, 2021  
