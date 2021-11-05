@@ -79,9 +79,14 @@ Thammasat University, Thailand.
     -  Conducted quantitative data management, cleaning, and organization  <br>  
   
 ### Graduate Research Assistant  
-
-
-## PROFESSIONAL WORKSHOP
+  - Data Mining of Public Health Briefings: A Mixed Methods Study of Wave 2 & 3 of COVID-19 (Fall 2021), Educational Psychology Department, University of Alberta, Canada.  
+    -  Engaged in qualitative data mining of public health briefings  
+    -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
+    -  Developed a key-event timeline of Alberta public health response from news search  <br>
+  
+## PROFESSIONAL WORKSHOP AND TRAINING
+  - McCrudden, M. (2019). _Mixed methods research workshop_. Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
+  - TEST
 
 ## TEACHING EXPERIENCE
 
