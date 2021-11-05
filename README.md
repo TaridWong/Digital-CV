@@ -1,6 +1,10 @@
 # Tarid Wongvorachan
+Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) program, University of Alberta, Canada.
+[EMAIL](wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)
 
 ## EDUCATION
+Ph.D., Measurement, Evaluation, and Data Science 
+
 
 ## AWARDS
 
