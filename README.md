@@ -20,8 +20,18 @@ Thammasat University Graduate (2012-2016)
 University of Alberta (2021 - present)  
   - University of Alberta FGSR doctoral recruitment scholarship ($5000) _Winter 2021_ <br>  
   
-  
 ## RESEARCH AND SCHOLARSHIP
+### Research Interest  
+  - Educational measurement and Psychometric  
+  - Score reporting and educational feedback  
+  - Mixed methods research  
+  - The applicaiton of data science techniques to social science research  <br>  
+
+### Peer reviewed journal articles (1):  
+Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). The influence of communication methods on the perception of sadness. _Journal of Behavioral Science, 23_(1), 55-70. <br>  
+
+Professional conference presentations (5):  
+
 
 ## PROFESSIONAL EXPERIENCE
 
