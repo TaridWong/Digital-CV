@@ -44,6 +44,13 @@ University of Alberta (2021 - present)
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
   
 ## PROFESSIONAL EXPERIENCE
+### Undergraduate Research Assistant  
+  - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
+    -  Engaged in qualitative interview  
+    -  Conducted data management and organization  
+    -  Performed qualitative coding  <br>  
+
+  - Cross-Cultural Research Project on Consumer Culture Values identity Processes, Mindfulness, and Well-being (2016), Department of Psychology, Thammasat University, Thailand; School of Psychology, University of Kent, United Kingdom.
 
 ## PROFESSIONAL WORKSHOP
 
