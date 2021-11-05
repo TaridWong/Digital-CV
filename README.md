@@ -88,10 +88,10 @@ Thammasat University, Thailand.
   - McCrudden, M. (2019). _Mixed methods research workshop_. Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
   
 ## PROFESSIONAL CERTIFICATES  
-  - [Datacamp Machine learning scientist with Python career track certificate](https://github.com/TaridWong/digitalcv/files/7489285/Machine.Learning.Scientist.career.track.pdf), Datacamp, 2021
   - [Datacamp Data Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588552-abfd75eb-49f2-4df4-a171-8b8e707a1592.jpg), Datacamp, 2021  
-  - Datacamp Natural Language Processing in Python skill track certificate, Datacamp, 2021  
-  - Datacamp Deep Learning in Python skill track certificate, Datacamp, 2021  
+  - [Datacamp Machine learning scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588668-f6550297-52b0-423f-90c4-d79b44431f58.jpg), Datacamp, 2021  
+  - [Datacamp Natural Language Processing in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588687-6e64521a-024e-416b-9ccb-2d8df94a090c.jpg), Datacamp, 2021  
+  - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
 
 ## TEACHING EXPERIENCE
 
