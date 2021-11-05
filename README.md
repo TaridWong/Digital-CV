@@ -16,6 +16,7 @@ B.A., Psychology
 ## AWARDS
 Thammasat University Graduate (2012-2016)  
   - Award for second-class honored <br>  
+
 University of Alberta (2021 - present)  
   - University of Alberta FGSR doctoral recruitment scholarship ($5000) _Winter 2021_ <br>  
   
