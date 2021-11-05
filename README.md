@@ -4,10 +4,10 @@ _Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) progra
 [EMAIL](mailto:wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)
 
 ## EDUCATION
-Ph.D., Measurement, Evaluation, and Data Science  
+Ph.D., Measurement, Evaluation, and Data Science <br>  
 [MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) <br>  
   
-M.Ed., Educational Psychology 
+M.Ed., Educational Psychology <br>  
 [Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) <br>  
 
 
