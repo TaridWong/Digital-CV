@@ -102,7 +102,7 @@ Thammasat University, Thailand.
 ## SKILLS
 
 ## COMMUNITY SERVICES
-
+[Thanksgiving 2019](https://user-images.githubusercontent.com/93608415/140588469-b5cdbb92-a601-4245-8f1a-842513f0ce70.jpg)
 
 ## Welcome to GitHub Pages
 
@@ -112,7 +112,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for!
+
 
 ```markdown
 Syntax highlighted code block
