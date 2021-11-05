@@ -50,7 +50,36 @@ University of Alberta (2021 - present)
     -  Conducted data management and organization  
     -  Performed qualitative coding  <br>  
 
-  - Cross-Cultural Research Project on Consumer Culture Values identity Processes, Mindfulness, and Well-being (2016), Department of Psychology, Thammasat University, Thailand; School of Psychology, University of Kent, United Kingdom.
+  - Cross-Cultural Research Project on Consumer Culture Values identity Processes, Mindfulness, and Well-being (2016), Department of Psychology, Thammasat University, Thailand; School of Psychology, University of Kent, United Kingdom.  
+    -  Engaged in qualitative interview  
+    -  Conducted data management and organization  
+    -  Performed qualitative coding  <br>  
+  
+  - Rorschach Ink-Blot test: Thai Translation Project (2016), Psychology Department, Thammasat University, Thailand.  
+    -  Trained as a test user and test reviewer  
+    -  Translated the test manual from English to Thai  <br>  
+  
+  - MMPI-2-RF Thai Translation Development: Phase1- Translation, and Validity and Reliability of MMPI-2-RF Thai Version (2016), Psychology Department, Thammasat University, Thailand.  
+    -  Trained as a test user and test reviewer  
+    -  Engaged in quantitative data collection for both English and Thai versions of the test  
+    -  Assisted in the development of raw score conversion software (Microsoft Excel)  
+    -  Performed data analysis using SPSS  <br>  
+  
+  - MMPI-2-RF Thai Translation Development: Phase2- Normative Data Collection and Standardization of MMPI-2-RF Thai Version (2016-2017), Psychology Department, Thammasat University, Thailand.  
+    -  Engaged in quantitative data collection  
+    -  Conducted quantitative data management, cleaning, and organization  
+    -  Performed data analysis using SPSS  <br>  
+  
+  - A research project on the impact of plot relation and violent cues on brand placement in games:
+Measure of brand recognition, attitude, and selection (2016-2017), Psychology Department, 
+Thammasat University, Thailand.  
+    -  Developed a quantitative data collection survey  
+    -  Recruited participants
+    -  Engaged in quantitative data collection  
+    -  Conducted quantitative data management, cleaning, and organization  <br>  
+  
+### Graduate Research Assistant  
+
 
 ## PROFESSIONAL WORKSHOP
 
