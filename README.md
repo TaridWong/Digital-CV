@@ -5,12 +5,13 @@ _Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) progra
 
 ## EDUCATION
 Ph.D., Measurement, Evaluation, and Data Science  
-[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) <br>  
+[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) - Edmonton, AB, Canada _(Dec 2020 - Present)_ <br>  
   
 M.Ed., Educational Psychology  
-[Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) <br>  
+[Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) - Pullman, WA, USA. _(Aug 2018 - May 2020)_ <br>  
 
-
+B.A., Psychology  
+[Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
 ## AWARDS
 
