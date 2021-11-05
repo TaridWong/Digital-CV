@@ -89,7 +89,7 @@ Thammasat University, Thailand.
   
 ## PROFESSIONAL CERTIFICATES  
   - [Datacamp Machine learning scientist with Python career track certificate](https://github.com/TaridWong/digitalcv/files/7489285/Machine.Learning.Scientist.career.track.pdf), Datacamp, 2021
-  - Datacamp Data Scientist with Python career track certificate, Datacamp, 2021  
+  - [Datacamp Data Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588552-abfd75eb-49f2-4df4-a171-8b8e707a1592.jpg), Datacamp, 2021  
   - Datacamp Natural Language Processing in Python skill track certificate, Datacamp, 2021  
   - Datacamp Deep Learning in Python skill track certificate, Datacamp, 2021  
 
