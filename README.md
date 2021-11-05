@@ -1,5 +1,26 @@
 # Tarid Wongvorachan
 
+## EDUCATION
+
+## AWARDS
+
+## RESEARCH AND SCHOLARSHIP
+
+## PROFESSIONAL EXPERIENCE
+
+## PROFESSIONAL WORKSHOP
+
+## TEACHING EXPERIENCE
+
+## NON-ACADEMIC WORK EXPERIENCE
+
+## PROFESSIONAL AFFILIATIONS
+
+## SKILLS
+
+## COMMUNITY SERVICES
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TaridWong/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
