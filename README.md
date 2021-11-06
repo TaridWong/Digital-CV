@@ -122,22 +122,23 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE
-  - **Clinical Psychologist Intern – 400+ hours** (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
-    -  Performed psychotherapy (individual and group)  
-    -  Performed psychological assessment as prescribed by psychiatrists  
-    -  Assisted multidisciplinary professional teams in crisis intervention  <br>  
+
+  - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
+    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  <br>  
 
   - **Booze, Sex, and Reality Check Workshop Facilitator** (2019), Cougar Health Services, Washington State University, WA, USA.  
     -  Trained as a professional health educator  
     -  Facilitate outreach workshop to freshmen and transfer students under the age of 21  <br>  
 
-  - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
-    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  
+  - **Clinical Psychologist Intern – 400+ hours** (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
+    -  Performed psychotherapy (individual and group)  
+    -  Performed psychological assessment as prescribed by psychiatrists  
+    -  Assisted multidisciplinary professional teams in crisis intervention   
 
 ## 📋 PROFESSIONAL AFFILIATIONS  
-  - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_
-  - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
   - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_  
+  - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
+  - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_  
 
 ## 📊 SKILLS
   - Languages  
