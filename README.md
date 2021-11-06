@@ -130,11 +130,13 @@ Thammasat University, Thailand.
     -  Facilitate outreach workshop to freshmen and transfer students under the age of 21  <br>  
 
   - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
-    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs
-## 📋 PROFESSIONAL AFFILIATIONS
+    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  
+
+## 📋 PROFESSIONAL AFFILIATIONS  
   - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_
   - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
-  - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_
+  - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_  
+
 ## 📊 SKILLS
   - Languages  
     - Fluent in Thai (Oral & Written)  
@@ -158,7 +160,8 @@ Thammasat University, Thailand.
       - Natural language processing  
       - Deep learning (_Tensorflow_ and _Keras_)  
       - For portfolio, see [Python repository](https://github.com/TaridWong/TaridWong/tree/Python)
-     - Zotero Reference Manager
-## 🏘️ COMMUNITY SERVICES
+     - Zotero Reference Manager  
+
+## 🏘️ COMMUNITY SERVICES  
   - **Thammasat University (2012 - 2016)**
     - 48th President of psychology student council.  
