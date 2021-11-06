@@ -3,7 +3,7 @@ _Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) progra
   
 [EMAIL](mailto:wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)
 
-## EDUCATION
+## 👩🏼‍🎓 EDUCATION
 Ph.D., Measurement, Evaluation, and Data Science  
 [MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) - Edmonton, AB, Canada _(Jan 2021 - Present)_ <br>  
   - Under supervision of [Dr. Okan Bulut](https://sites.google.com/ualberta.ca/okanbulut) 
@@ -15,14 +15,14 @@ Ph.D., Measurement, Evaluation, and Data Science
 B.A., Psychology  
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
-## AWARDS
+## 🏆 AWARDS 
 Thammasat University Graduate (2012-2016)  
   - Award for second-class honored <br>  
 
 University of Alberta (2021 - present)  
   - University of Alberta FGSR doctoral recruitment scholarship ($5000) _Winter 2021_ <br>  
   
-## RESEARCH AND SCHOLARSHIP
+## 📚 RESEARCH AND SCHOLARSHIP
 ### Research Interest  
   - Educational measurement and Psychometric  
   - Score reporting and educational feedback  
@@ -32,7 +32,7 @@ University of Alberta (2021 - present)
 ### Peer reviewed journal articles (1):  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). The influence of communication methods on the perception of sadness. _Journal of Behavioral Science, 23_(1), 55-70. <br>  
 
-### Professional conference presentations (5):  
+### 🎤 Professional conference presentations (5):  
   - Bulut , O., Gorgun, G., Nur Yildirim Erbasli, S., **Wongvorachan, T**. (2021, July 5th). _Generating effective feedback from online assessments_ [Conference session]. Festival of Teaching and Learning 2021: Teaching through transition. Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
   - **Wongvorachan, T**. (2020, March, 26th). _Cheating detection in tests: A systematic review_ [Poster presentation]. Washington State University academic showcase. Washington State University, Pullman, WA, USA. (Showcase canceled).  <br>  
   - **Wongvorachan, T**. (2020, March, 7th). _An integrative exploration of inequity-driven cheating behavior in marginalized people_ [Conference session]. Washington State University interdisciplinary graduate social justice conference (WSU SJCON). Presented at Washington State University, Pullman, WA, USA.  <br>  
@@ -45,7 +45,7 @@ University of Alberta (2021 - present)
 ### Forthcoming publications- In preparation (1):  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
   
-## PROFESSIONAL EXPERIENCE
+## ✒️ PROFESSIONAL EXPERIENCE
 ### Undergraduate Research Assistant  
   - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
     -  Engaged in qualitative interview  
@@ -86,16 +86,16 @@ Thammasat University, Thailand.
     -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
     -  Developed a key-event timeline of Alberta public health response from news search  <br>
   
-## PROFESSIONAL WORKSHOP AND TRAINING
+## 🗃️ PROFESSIONAL WORKSHOP AND TRAINING
   - McCrudden, M. (2019). [_Mixed methods research workshop_](https://user-images.githubusercontent.com/93608415/140589068-ea08232e-2136-4bc8-85c0-96b0cde79708.jpg). Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
 
-## PROFESSIONAL CERTIFICATES  
+## 💼 PROFESSIONAL CERTIFICATES  
   - [Datacamp Data Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588552-abfd75eb-49f2-4df4-a171-8b8e707a1592.jpg), Datacamp, 2021  
   - [Datacamp Machine Learning Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588668-f6550297-52b0-423f-90c4-d79b44431f58.jpg), Datacamp, 2021  
   - [Datacamp Natural Language Processing in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588687-6e64521a-024e-416b-9ccb-2d8df94a090c.jpg), Datacamp, 2021  
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
 
-## TEACHING EXPERIENCE
+## 📜 TEACHING EXPERIENCE
   - **Undergraduate Teaching Assistant** (2016), Psychology Department, Thammasat University, Thailand.  
     -  Assisted faculty with the following courses:
          - _PY 211:General Psychology_
@@ -119,7 +119,7 @@ Thammasat University, Thailand.
     -  Assisted faculty with the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>   
    
-## NON-ACADEMIC WORK EXPERIENCE
+## 🛠️ NON-ACADEMIC WORK EXPERIENCE
   - **Clinical Psychologist Intern – 400+ hours** (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
     -  Performed psychotherapy (individual and group)  
     -  Performed psychological assessment as prescribed by psychiatrists  
@@ -131,11 +131,11 @@ Thammasat University, Thailand.
 
   - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
     -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs
-## PROFESSIONAL AFFILIATIONS
+## 📋 PROFESSIONAL AFFILIATIONS
   - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_
   - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
   - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_
-## SKILLS
+## 📊 SKILLS
   - Languages  
     - Fluent in Thai (Oral & Written)  
     - Fluent in English (Oral & Written)  <br>  
@@ -159,7 +159,7 @@ Thammasat University, Thailand.
       - Deep learning (_Tensorflow_ and _Keras_)  
       - For portfolio, see [Python repository](https://github.com/TaridWong/TaridWong/tree/Python)
      - Zotero Reference Manager
-## COMMUNITY SERVICES
+## 🏘️ COMMUNITY SERVICES
   - **Thammasat University (2012 - 2016)**
     - 48th President of psychology student council.  
 ## Welcome to GitHub Pages
