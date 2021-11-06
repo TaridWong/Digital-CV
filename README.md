@@ -12,7 +12,7 @@ Ph.D., Measurement, Evaluation, and Data Science
 [Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) - Pullman, WA, USA. _(Aug 2018 - May 2020)_  <br>  
   - Under supervision of [Dr. Chad Gotch](https://education.wsu.edu/cgotch/)
 
-B.A., Psychology  
+[B.A](https://user-images.githubusercontent.com/93608415/140618149-0d3de13c-9868-44d0-bba0-ca58e26c6d49.jpeg)., Psychology  
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
 ## 🏆 AWARDS 
