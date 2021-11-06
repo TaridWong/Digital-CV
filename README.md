@@ -150,12 +150,14 @@ Thammasat University, Thailand.
       - Supervised machine learning models  
       - Anomaly detection 
       - For initial portfolio, see [Rpubs](https://www.rpubs.com/Tarid)
+      - For detailed portfolio, see [R repository](https://github.com/TaridWong/TaridWong/tree/R)
     - Python  
       - Quantitative data management, analysis, and visualization  
       - Supervised machine learning models  
       - Unsupervised machine learning models  
       - Natural language processing  
       - Deep learning (_Tensorflow_ and _Keras_)  
+      - For portfolio, see [Python repository](https://github.com/TaridWong/TaridWong/tree/Python)
      - Zotero Reference Manager
 ## COMMUNITY SERVICES
   - **Thammasat University (2012 - 2016)**
