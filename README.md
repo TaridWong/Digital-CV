@@ -133,13 +133,33 @@ Thammasat University, Thailand.
     -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs
 ## PROFESSIONAL AFFILIATIONS
   - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_
-  - The E-assessment Association [(eAA)](https://www.e-assessment.com/)_(2021 - Present)_  
+  - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
   - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_
 ## SKILLS
-
+  - Languages  
+    - Fluent in Thai (Oral & Written)  
+    - Fluent in English (Oral & Written)  <br>  
+  - Research/Statistics  
+    - Statistical Packages for Social Sciences (SPSS)  
+    - R Programming  
+      - Quantitative data management, analysis, and visualization  
+      - Qualitative coding and network visualization  
+      - Descriptive statistics and data screening  
+      - Inferential statistics and model building  
+      - Data mining  
+      - Supervised machine learning models  
+      - Anomaly detection 
+      - For initial portfolio, see [Rpubs](https://www.rpubs.com/Tarid)
+    - Python  
+      - Quantitative data management, analysis, and visualization  
+      - Supervised machine learning models  
+      - Unsupervised machine learning models  
+      - Natural language processing  
+      - Deep learning (_Tensorflow_ and _Keras_)  
+     - Zotero Reference Manager
 ## COMMUNITY SERVICES
-[Thanksgiving 2019](https://user-images.githubusercontent.com/93608415/140588469-b5cdbb92-a601-4245-8f1a-842513f0ce70.jpg)
-
+  - **Thammasat University (2012 - 2016)**
+    - 48th President of psychology student council.  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TaridWong/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
