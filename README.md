@@ -116,11 +116,21 @@ Thammasat University, Thailand.
         - _ED_RES 565: Quantitative Methods_  <br>  
   
   - Graduate Teaching Assistant, Department of Educational Psychology, University of Alberta, Canada/  
-    -  Assisted faculty with following courses:  
+    -  Assisted faculty with the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>   
    
 ## NON-ACADEMIC WORK EXPERIENCE
-
+  - Clinical Psychologist Intern – 400+ hours (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
+    -  Performed psychotherapy (individual and group)  
+    -  Performed psychological assessment as prescribed by psychiatrists  
+    -  Assisted multidisciplinary professional teams in crisis intervention  
+<br><br>  
+  - Booze, Sex, and Reality Check Workshop Facilitator (2019), Cougar Health Services, Washington State University, WA, USA.  
+    -  Trained as a professional health educator  
+    -  Facilitate outreach workshop to freshmen and transfer students under the age of 21  
+<br><br>  
+  - Test taker assistance for GED exams (2021), Universal Exam Solution, Edmonton, AB, Canada.  
+    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs
 ## PROFESSIONAL AFFILIATIONS
 
 ## SKILLS
