@@ -96,13 +96,13 @@ Thammasat University, Thailand.
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
 
 ## TEACHING EXPERIENCE
-  - Undergraduate Teaching Assistant (2016), Psychology Department, Thammasat University, Thailand.  
+  - **Undergraduate Teaching Assistant** (2016), Psychology Department, Thammasat University, Thailand.  
     -  Assisted faculty with the following courses:
          - _PY 211:General Psychology_
          - _PY 212: Virtual Psychology, Ethics, and Societal Responsibility_
     -  Proctored quizzes and graded papers  <br>  
 
-  - Tutor in Educational Psychology (2019 - 2020), Intensive American Language Center (IALC), Washington State University, USA.  
+  - **Tutor in Educational Psychology** (2019 - 2020), Intensive American Language Center (IALC), Washington State University, USA.  
     -  Nominated by the department of kinesiology and educational psychology to assist international students (undergraduate and graduate level) in learning academic English as well as the following courses:  
         - _ED_PSYCH 502: Learning & Instructions_  
         - _ED_PSYCH 505: Research Methods I_  
@@ -115,21 +115,21 @@ Thammasat University, Thailand.
         - _ED_PSYCH 573: Motivation Theories_  
         - _ED_RES 565: Quantitative Methods_  <br>  
   
-  - Graduate Teaching Assistant, Department of Educational Psychology, University of Alberta, Canada/  
+  - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada/  
     -  Assisted faculty with the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>   
    
 ## NON-ACADEMIC WORK EXPERIENCE
-  - Clinical Psychologist Intern – 400+ hours (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
+  - **Clinical Psychologist Intern – 400+ hours** (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
     -  Performed psychotherapy (individual and group)  
     -  Performed psychological assessment as prescribed by psychiatrists  
-    -  Assisted multidisciplinary professional teams in crisis intervention  
-<br><br>  
-  - Booze, Sex, and Reality Check Workshop Facilitator (2019), Cougar Health Services, Washington State University, WA, USA.  
+    -  Assisted multidisciplinary professional teams in crisis intervention  <br>  
+
+  - **Booze, Sex, and Reality Check Workshop Facilitator** (2019), Cougar Health Services, Washington State University, WA, USA.  
     -  Trained as a professional health educator  
-    -  Facilitate outreach workshop to freshmen and transfer students under the age of 21  
-<br><br>  
-  - Test taker assistance for GED exams (2021), Universal Exam Solution, Edmonton, AB, Canada.  
+    -  Facilitate outreach workshop to freshmen and transfer students under the age of 21  <br>  
+
+  - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
     -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs
 ## PROFESSIONAL AFFILIATIONS
 
