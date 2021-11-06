@@ -40,7 +40,7 @@ University of Alberta (2021 - present)
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016, July. 8th-9th). _The influence of communication methods on the perception of sadness_ [Conference session]. Thailand National Conference on Psychology: Empowering people in the world of change (TNCP 2016). Presented at Chulalongkorn University, Bangkok, Thailand.  <br>  
   
 ### Unpublished theses and projects (1):  
-  - **Wongvorachan, T**. (2020). _Cheating behavior in high-stakes test: A synthesis statement_. [Unpublished Master’s final project](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). Washington State University.  <br>  
+  - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   
 ### Forthcoming publications- In preparation (1):  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
