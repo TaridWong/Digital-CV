@@ -5,11 +5,11 @@ _Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) progra
 
 ## 👩🏼‍🎓 EDUCATION
 Ph.D., Measurement, Evaluation, and Data Science  
-[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) - Edmonton, AB, Canada _(Jan 2021 - Present)_ <br>  
+[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) - Edmonton, AB, Canada _(Jan 2021 - Present)_  
   - Under supervision of [Dr. Okan Bulut](https://sites.google.com/ualberta.ca/okanbulut) 
 
 [M.Ed](https://user-images.githubusercontent.com/93608415/140589122-3d8f48a5-e564-4c5b-84c8-fb11e448a452.jpg)., Educational Psychology  
-[Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) - Pullman, WA, USA. _(Aug 2018 - May 2020)_ <br>  
+[Educational Psychology Program](https://education.wsu.edu/graduate/edpsych/) - Pullman, WA, USA. _(Aug 2018 - May 2020)_  
   - Under supervision of [Dr. Chad Gotch](https://education.wsu.edu/cgotch/)
 
 B.A., Psychology  
