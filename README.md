@@ -45,7 +45,14 @@ University of Alberta (2021 - present)
 ### Forthcoming publications- In preparation (1):  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
   
-## ✒️ PROFESSIONAL EXPERIENCE
+## ✒️ PROFESSIONAL EXPERIENCE  
+
+### Graduate Research Assistant  
+  - Data Mining of Public Health Briefings: A Mixed Methods Study of Wave 2 & 3 of COVID-19 (Fall 2021), Educational Psychology Department, University of Alberta, Canada.  
+    -  Engaged in qualitative data mining of public health briefings  
+    -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
+    -  Developed a key-event timeline of Alberta public health response from news search  <br>
+  
 ### Undergraduate Research Assistant  
   - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
     -  Engaged in qualitative interview  
@@ -79,12 +86,6 @@ Thammasat University, Thailand.
     -  Recruited participants
     -  Engaged in quantitative data collection  
     -  Conducted quantitative data management, cleaning, and organization  <br>  
-  
-### Graduate Research Assistant  
-  - Data Mining of Public Health Briefings: A Mixed Methods Study of Wave 2 & 3 of COVID-19 (Fall 2021), Educational Psychology Department, University of Alberta, Canada.  
-    -  Engaged in qualitative data mining of public health briefings  
-    -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
-    -  Developed a key-event timeline of Alberta public health response from news search  <br>
   
 ## 🗃️ PROFESSIONAL WORKSHOP AND TRAINING
   - McCrudden, M. (2019). [_Mixed methods research workshop_](https://user-images.githubusercontent.com/93608415/140589068-ea08232e-2136-4bc8-85c0-96b0cde79708.jpg). Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
