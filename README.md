@@ -96,7 +96,10 @@ Thammasat University, Thailand.
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
 
 ## TEACHING EXPERIENCE
-
+  - Undergraduate Teaching Assistant (2016), Psychology Department, Thammasat University, Thailand.  
+    -  Assisted faculty with the following courses:
+         - _PY 211:General Psychology_
+    - 
 ## NON-ACADEMIC WORK EXPERIENCE
 
 ## PROFESSIONAL AFFILIATIONS
