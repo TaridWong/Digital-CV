@@ -97,12 +97,11 @@ Thammasat University, Thailand.
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
 
 ## 📜 TEACHING EXPERIENCE
-  - **Undergraduate Teaching Assistant** (2016), Psychology Department, Thammasat University, Thailand.  
-    -  Assisted faculty with the following courses:
-         - _PY 211:General Psychology_
-         - _PY 212: Virtual Psychology, Ethics, and Societal Responsibility_
-    -  Proctored quizzes and graded papers  <br>  
-
+  
+  - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada/  
+    -  Assisted faculty with the following courses:  
+        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>  
+    
   - **Tutor in Educational Psychology** (2019 - 2020), Intensive American Language Center (IALC), Washington State University, USA.  
     -  Nominated by the department of kinesiology and educational psychology to assist international students (undergraduate and graduate level) in learning academic English as well as the following courses:  
         - _ED_PSYCH 502: Learning & Instructions_  
@@ -115,10 +114,12 @@ Thammasat University, Thailand.
         - _ED_PSYCH 572: Introduction to Systematic Literature Reviews and Meta Analyses_  
         - _ED_PSYCH 573: Motivation Theories_  
         - _ED_RES 565: Quantitative Methods_  <br>  
-  
-  - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada/  
-    -  Assisted faculty with the following courses:  
-        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>   
+
+  - **Undergraduate Teaching Assistant** (2016), Psychology Department, Thammasat University, Thailand.  
+    -  Assisted faculty with the following courses:
+         - _PY 211:General Psychology_
+         - _PY 212: Virtual Psychology, Ethics, and Societal Responsibility_
+    -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE
   - **Clinical Psychologist Intern – 400+ hours** (2015), Sritanya Psychiatric Hospital, Nonthaburi, Thailand.  
