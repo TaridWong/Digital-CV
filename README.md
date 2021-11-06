@@ -132,7 +132,9 @@ Thammasat University, Thailand.
   - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
     -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs
 ## PROFESSIONAL AFFILIATIONS
-
+  - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_
+  - The E-assessment Association [(eAA)](https://www.e-assessment.com/)_(2021 - Present)_  
+  - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_
 ## SKILLS
 
 ## COMMUNITY SERVICES
