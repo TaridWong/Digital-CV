@@ -99,7 +99,26 @@ Thammasat University, Thailand.
   - Undergraduate Teaching Assistant (2016), Psychology Department, Thammasat University, Thailand.  
     -  Assisted faculty with the following courses:
          - _PY 211:General Psychology_
-    - 
+         - _PY 212: Virtual Psychology, Ethics, and Societal Responsibility_
+    -  Proctored quizzes and graded papers  <br>  
+
+  - Tutor in Educational Psychology (2019 - 2020), Intensive American Language Center (IALC), Washington State University, USA.  
+    -  Nominated by the department of kinesiology and educational psychology to assist international students (undergraduate and graduate level) in learning academic English as well as the following courses:  
+        - _ED_PSYCH 502: Learning & Instructions_  
+        - _ED_PSYCH 505: Research Methods I_  
+        - _ED_PSYCH 507: Introduction to Qualitative Research_  
+        - _ED_PSYCH 508: Educational Statistics_  
+        - _ED_PSYCH 509: Educational Measurement, Test Development and Assessment_  
+        - _ED_PSYCH 521: Indigenous Epistemology and Methodology_  
+        - _ED_PSYCH 570: Introduction to Program Evaluation_  
+        - _ED_PSYCH 572: Introduction to Systematic Literature Reviews and Meta Analyses_  
+        - _ED_PSYCH 573: Motivation Theories_  
+        - _ED_RES 565: Quantitative Methods_  <br>  
+  
+  - Graduate Teaching Assistant, Department of Educational Psychology, University of Alberta, Canada/  
+    -  Assisted faculty with following courses:  
+        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>   
+   
 ## NON-ACADEMIC WORK EXPERIENCE
 
 ## PROFESSIONAL AFFILIATIONS
