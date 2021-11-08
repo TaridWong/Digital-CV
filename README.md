@@ -41,6 +41,7 @@ University of Alberta (2021 - present)
   
 ### Unpublished theses and projects (1):  
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
+  - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
   
 ### Forthcoming publications- In preparation (1):  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
