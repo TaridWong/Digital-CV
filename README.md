@@ -32,7 +32,7 @@ University of Alberta (2021 - present)
 ### Peer reviewed journal articles (1):  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). The influence of communication methods on the perception of sadness. _Journal of Behavioral Science, 23_(1), 55-70. <br>  
 
-### 🎤 Professional conference presentations (5):  
+### Professional conference presentations (5):  
   - Bulut , O., Gorgun, G., Nur Yildirim Erbasli, S., **Wongvorachan, T**. (2021, July 5th). _Generating effective feedback from online assessments_ [Conference session]. Festival of Teaching and Learning 2021: Teaching through transition. Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
   - **Wongvorachan, T**. (2020, March, 26th). [_Cheating detection in tests: A systematic review_](https://showcase.wsu.edu/2020/04/13/cheating-detection-in-tests-a-systematic-review/) [Poster presentation]. Washington State University academic showcase. Washington State University, Pullman, WA, USA. (Showcase canceled).  <br>  
   - **Wongvorachan, T**. (2020, March, 7th). _An integrative exploration of inequity-driven cheating behavior in marginalized people_ [Conference session]. Washington State University interdisciplinary graduate social justice conference (WSU SJCON). Presented at Washington State University, Pullman, WA, USA.  <br>  
