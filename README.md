@@ -96,6 +96,7 @@ Thammasat University, Thailand.
   - [Datacamp Data Scientist with R career track certificate](https://user-images.githubusercontent.com/93608415/141705995-f8db38fe-4c74-4a00-b225-df9403940ec7.jpg), Datacamp, 2021  
   - [Datacamp Machine Learning Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588668-f6550297-52b0-423f-90c4-d79b44431f58.jpg), Datacamp, 2021  
   - [Datacamp Machine Learning Scientist with R career track certificate](https://user-images.githubusercontent.com/93608415/141705976-364cdd12-0127-45e2-a0d4-aeecc67f252e.jpg), Datacamp, 2021  
+  - [Datacamp Statistician with R career track certificate](https://user-images.githubusercontent.com/93608415/141924983-2e341e6f-2e61-4de1-b7a0-46100945a6e2.jpg), Datacamp, 2021  
   - [Datacamp Natural Language Processing in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588687-6e64521a-024e-416b-9ccb-2d8df94a090c.jpg), Datacamp, 2021  
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
   
