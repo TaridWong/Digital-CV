@@ -157,9 +157,10 @@ Thammasat University, Thailand.
       - Inferential statistics and model building  
       - Data mining  
       - Supervised machine learning models  
-      - Anomaly detection 
-      - For initial portfolio, see [Rpubs](https://www.rpubs.com/Tarid)
-      - For detailed portfolio, see [R repository](https://github.com/TaridWong/TaridWong/tree/R)
+      - Unsupervised machine learning models  
+      - Anomaly detection  
+      - For initial portfolio, see [Rpubs](https://www.rpubs.com/Tarid)  
+      - For detailed portfolio, see [R repository](https://github.com/TaridWong/TaridWong/tree/R)  
     - Python  
       - Quantitative data management, analysis, and visualization  
       - Supervised machine learning models  
