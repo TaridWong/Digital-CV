@@ -125,8 +125,9 @@ Thammasat University, Thailand.
          - _PY 212: Virtual Psychology, Ethics, and Societal Responsibility_
     -  Proctored quizzes and graded papers  <br>  
    
-## 🛠️ NON-ACADEMIC WORK EXPERIENCE
-  - **Student employee for program evaluation ** (2022), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
+## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
+
+  - **Student employee for program evaluation** (2022), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
     -  Conducted research on evaluation-related topics  
     -  Conducted evaluation interviews  
     -  Summarize, analyze, interpret and evaluate data from evaluation activities  
