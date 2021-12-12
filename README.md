@@ -126,6 +126,14 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE
+  - **Student employee for program evaluation ** (2022), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
+    -  Conducted research on evaluation-related topics  
+    -  Conducted evaluation interviews  
+    -  Summarize, analyze, interpret and evaluate data from evaluation activities  
+    -  Participated in the identification of issues for root causes and effects  
+    -  Participated in the formulation of conclusions/recommendations and communication  
+    -  Prepared and maintained written evaluation report  
+    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  <br>  
 
   - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
     -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  <br>  
