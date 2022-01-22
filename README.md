@@ -33,6 +33,8 @@ University of Alberta (2021 - present)
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). The influence of communication methods on the perception of sadness. _Journal of Behavioral Science, 23_(1), 55-70. <br>  
 
 ### Professional conference presentations (5):  
+
+  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y.S. (2022, January 28th). _Feedback Literacy Framework in the E-Assessment Context_ [Poster presentation]. Assessment and Evaluation Conference 2022. Presented at Queen’s University, Kingston, ON, Canada.  <br>  
   - Bulut , O., Gorgun, G., Nur Yildirim Erbasli, S., **Wongvorachan, T**. (2021, July 5th). _Generating effective feedback from online assessments_ [Conference session]. Festival of Teaching and Learning 2021: Teaching through transition. Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
   - **Wongvorachan, T**. (2020, March, 26th). [_Cheating detection in tests: A systematic review_](https://showcase.wsu.edu/2020/04/13/cheating-detection-in-tests-a-systematic-review/) [Poster presentation]. Washington State University academic showcase. Washington State University, Pullman, WA, USA. (Showcase canceled).  <br>  
   - **Wongvorachan, T**. (2020, March, 7th). _An integrative exploration of inequity-driven cheating behavior in marginalized people_ [Conference session]. Washington State University interdisciplinary graduate social justice conference (WSU SJCON). Presented at Washington State University, Pullman, WA, USA.  <br>  
@@ -43,7 +45,12 @@ University of Alberta (2021 - present)
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
   
-### Forthcoming publications- In preparation (1):  
+### Forthcoming publications- In preparation (3):  
+
+  - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
+
+  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (in preparation). Artificial Intelligence: Transforming the Future of Feedback in Education.  <br> 
+  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
   
 ## ✒️ PROFESSIONAL EXPERIENCE  
@@ -52,7 +59,8 @@ University of Alberta (2021 - present)
   - Data Mining of Public Health Briefings: A Mixed Methods Study of Wave 2 & 3 of COVID-19 (Fall 2021), Educational Psychology Department, University of Alberta, Canada.  
     -  Engaged in qualitative data mining of public health briefings  
     -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
-    -  Developed a key-event timeline of Alberta public health response from news search  <br>
+    -  Developed a key-event timeline of Alberta public health response from news search  
+    -  Performed sentiment analysis and topic modeling with COVID-19-related twitter data  <br>
   
 ### Undergraduate Research Assistant  
   - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
@@ -104,7 +112,7 @@ Thammasat University, Thailand.
   
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada/  
     -  Assisted faculty with the following courses:  
-        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021)_  <br>  
+        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021, Winter 2022)_  <br>  
     
   - **Tutor in Educational Psychology** (2019 - 2020), Intensive American Language Center (IALC), Washington State University, USA.  
     -  Nominated by the department of kinesiology and educational psychology to assist international students (undergraduate and graduate level) in learning academic English as well as the following courses:  
@@ -127,14 +135,13 @@ Thammasat University, Thailand.
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
 
-  - **Student employee for program evaluation** (2022), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
+  - **Student employee for program evaluation** (2022-Present), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
     -  Conducted research on evaluation-related topics  
     -  Conducted evaluation interviews  
     -  Summarize, analyze, interpret and evaluate data from evaluation activities  
     -  Participated in the identification of issues for root causes and effects  
     -  Participated in the formulation of conclusions/recommendations and communication  
-    -  Prepared and maintained written evaluation report  
-    -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  <br>  
+    -  Prepared and maintained written evaluation report  <br>  
 
   - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
     -  Trained as a professional assistance in standardized exams for test-takers with accommodation needs  <br>  
@@ -157,6 +164,7 @@ Thammasat University, Thailand.
   - Languages  
     - Fluent in Thai (Oral & Written)  
     - Fluent in English (Oral & Written)  <br>  
+  
   - Research/Statistics  
     - Statistical Packages for Social Sciences (SPSS)  
     - R Programming  
@@ -168,17 +176,19 @@ Thammasat University, Thailand.
       - Supervised machine learning models  
       - Unsupervised machine learning models  
       - Anomaly detection  
-      - For initial portfolio, see [Rpubs](https://www.rpubs.com/Tarid)  
-      - For detailed portfolio, see [R repository](https://github.com/TaridWong/TaridWong/tree/R)  
+
     - Python  
       - Quantitative data management, analysis, and visualization  
+      - Data mining
       - Supervised machine learning models  
       - Unsupervised machine learning models  
-      - Natural language processing  
-      - Deep learning (_Tensorflow_ and _Keras_)  
-      - For portfolio, see [Python repository](https://github.com/TaridWong/TaridWong/tree/Python)
-     - Zotero Reference Manager  
+      - Natural language processing (NLP)
+      - Deep learning (_Tensorflow2_ and _Keras_)  
+  
+     - For programming portfolio, see https://taridwong.github.io  
 
+     - Zotero Reference Manager  
+  
 ## 🏘️ COMMUNITY SERVICES  
   - **Thammasat University (2012 - 2016)**
     - 48th President of psychology student council.  
