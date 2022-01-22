@@ -185,7 +185,7 @@ Thammasat University, Thailand.
       - Natural language processing (NLP)
       - Deep learning (_Tensorflow2_ and _Keras_)  
   
-     - For programming portfolio, see https://taridwong.github.io  
+     - For programming portfolio, see [my blog](https://taridwong.github.io)  
 
      - Zotero Reference Manager  
   
