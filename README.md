@@ -32,7 +32,7 @@ University of Alberta (2021 - present)
 ### Peer reviewed journal articles (1):  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). The influence of communication methods on the perception of sadness. _Journal of Behavioral Science, 23_(1), 55-70. <br>  
 
-### Professional conference presentations (5):  
+### Professional conference presentations (6):  
 
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y.S. (2022, January 28th). _Feedback Literacy Framework in the E-Assessment Context_ [Poster presentation]. Assessment and Evaluation Conference 2022. Presented at Queen’s University, Kingston, ON, Canada.  <br>  
   - Bulut , O., Gorgun, G., Nur Yildirim Erbasli, S., **Wongvorachan, T**. (2021, July 5th). _Generating effective feedback from online assessments_ [Conference session]. Festival of Teaching and Learning 2021: Teaching through transition. Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
@@ -41,7 +41,7 @@ University of Alberta (2021 - present)
   - **Wongvorachan, T**. (2019, October, 14th). _Cheating behavior in large-scale assessment_ [Conference session]. Presented at the Research on Psychometrics & Applied Statistics (RPAS) Conference. Presented at University of Washington, Seattle, WA, USA.  <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016, July. 8th-9th). _The influence of communication methods on the perception of sadness_ [Conference session]. Thailand National Conference on Psychology: Empowering people in the world of change (TNCP 2016). Presented at Chulalongkorn University, Bangkok, Thailand.  <br>  
   
-### Unpublished theses and projects (1):  
+### Unpublished theses and projects (2):  
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
   
