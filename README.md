@@ -34,7 +34,7 @@ University of Alberta (2021 - present)
 
 ### Professional conference presentations (6):  
 
-  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y.S. (2022, January 28th). _Feedback Literacy Framework in the E-Assessment Context_ [Poster presentation]. Assessment and Evaluation Conference 2022. Presented at Queen’s University, Kingston, ON, Canada.  <br>  
+  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y.S. (2022, January 28th). [_Feedback Literacy Framework in the E-Assessment Context_](https://user-images.githubusercontent.com/93608415/152241885-5e67e64d-02b6-4345-8b37-4790743cea29.png) [Poster presentation]. Assessment and Evaluation Conference 2022. Presented at Queen’s University, Kingston, ON, Canada.  <br>  
   - Bulut , O., Gorgun, G., Nur Yildirim Erbasli, S., **Wongvorachan, T**. (2021, July 5th). _Generating effective feedback from online assessments_ [Conference session]. Festival of Teaching and Learning 2021: Teaching through transition. Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
   - **Wongvorachan, T**. (2020, March, 26th). [_Cheating detection in tests: A systematic review_](https://showcase.wsu.edu/2020/04/13/cheating-detection-in-tests-a-systematic-review/) [Poster presentation]. Washington State University academic showcase. Washington State University, Pullman, WA, USA. (Showcase canceled).  <br>  
   - **Wongvorachan, T**. (2020, March, 7th). _An integrative exploration of inequity-driven cheating behavior in marginalized people_ [Conference session]. Washington State University interdisciplinary graduate social justice conference (WSU SJCON). Presented at Washington State University, Pullman, WA, USA.  <br>  
