@@ -52,7 +52,7 @@ University of Alberta (2021 - present)
 
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (in preparation). Artificial Intelligence: Transforming the Future of Feedback in Education.  <br> 
   
-  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The enhancement of feedback literacy framework to the e-assessment context_.  <br>  
+  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The Enhancement of Feedback Literacy Framework to the E-Assessment Context_.  <br>  
   
 ## ✒️ PROFESSIONAL EXPERIENCE  
 
@@ -61,7 +61,7 @@ University of Alberta (2021 - present)
     -  Engaged in qualitative data mining of public health briefings  
     -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
     -  Developed a key-event timeline of Alberta public health response from news search  
-    -  Performed sentiment analysis and topic modeling with COVID-19-related twitter data  <br>
+    -  Performed sentiment analysis and topic modeling with COVID-19-related Twitter data  <br>
   
 ### Undergraduate Research Assistant  
   - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
@@ -136,7 +136,7 @@ Thammasat University, Thailand.
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
 
-  - **Student employee for program evaluation** (2022-Present), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
+  - **Student Evaluator** (2022-Present), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
     -  Conducted research on evaluation-related topics  
     -  Conducted evaluation interviews  
     -  Summarize, analyze, interpret and evaluate data from evaluation activities  
