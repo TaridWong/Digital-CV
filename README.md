@@ -101,14 +101,14 @@ Thammasat University, Thailand.
   - McCrudden, M. (2019). [_Mixed methods research workshop_](https://user-images.githubusercontent.com/93608415/140589068-ea08232e-2136-4bc8-85c0-96b0cde79708.jpg). Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
 
 ## 💼 PROFESSIONAL CERTIFICATES  
+  -   - [Datacamp Machine Learning Scientist with R career track certificate](https://user-images.githubusercontent.com/93608415/155823469-3adb1632-5a33-4df2-90d0-0477b79495e2.png), Datacamp, 2022  
   - [Datacamp Data Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588552-abfd75eb-49f2-4df4-a171-8b8e707a1592.jpg), Datacamp, 2021  
   - [Datacamp Data Scientist with R career track certificate](https://user-images.githubusercontent.com/93608415/141705995-f8db38fe-4c74-4a00-b225-df9403940ec7.jpg), Datacamp, 2021  
   - [Datacamp Machine Learning Scientist with Python career track certificate](https://user-images.githubusercontent.com/93608415/140588668-f6550297-52b0-423f-90c4-d79b44431f58.jpg), Datacamp, 2021  
-  - [Datacamp Machine Learning Scientist with R career track certificate](https://user-images.githubusercontent.com/93608415/141705976-364cdd12-0127-45e2-a0d4-aeecc67f252e.jpg), Datacamp, 2021  
   - [Datacamp Statistician with R career track certificate](https://user-images.githubusercontent.com/93608415/141924983-2e341e6f-2e61-4de1-b7a0-46100945a6e2.jpg), Datacamp, 2021  
   - [Datacamp Natural Language Processing in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588687-6e64521a-024e-416b-9ccb-2d8df94a090c.jpg), Datacamp, 2021  
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021  
-  
+
 ## 📜 TEACHING EXPERIENCE  
   
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada/  
@@ -185,7 +185,11 @@ Thammasat University, Thailand.
       - Unsupervised machine learning models  
       - Natural language processing (NLP)
       - Deep learning (_Tensorflow2_ and _Keras_)  
-  
+
+    - [Power BI](https://user-images.githubusercontent.com/93608415/155823552-f707cffe-f560-453a-9db9-dff754446803.png)
+      - Data Visualization
+      - Data Analysis Expression (DAX) 
+
      - For programming portfolio, see [my blog](https://taridwong.github.io)  
 
      - Zotero Reference Manager  
