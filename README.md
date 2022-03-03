@@ -165,11 +165,13 @@ Thammasat University, Thailand.
 
 ## 📊 SKILLS
   - Languages  
-    - Fluent in Thai (Oral & Written)  
-    - Fluent in English (Oral & Written)  <br>  
+    - Fluent in Thai and English (Oral & Written)  <br>
   
   - Research/Statistics  
     - Statistical Packages for Social Sciences (SPSS)  
+      - Descriptive Statistics
+      - Inferential Statistics  
+
     - R Programming  
       - Quantitative data management, analysis, and visualization  
       - Qualitative coding and network visualization  
@@ -188,14 +190,26 @@ Thammasat University, Thailand.
       - Natural language processing (NLP)
       - Deep learning (_Tensorflow2_ and _Keras_)  
 
-    - [Power BI](https://user-images.githubusercontent.com/93608415/155823552-f707cffe-f560-453a-9db9-dff754446803.png)
+    - [Power BI](https://user-images.githubusercontent.com/93608415/155823552-f707cffe-f560-453a-9db9-dff754446803.png)  
       - Data Visualization
-      - Data Analysis Expression (DAX) 
+      - Data Analysis Expression (DAX)  
+
+    - QDA Miner  
+      - Database scraping from social media (i.e., Facebook, Reddit, RSS, Twitter, and Youtube)
+      - Qualitative coding with textual data
+      - Patterns visualization with textual data  
+
+    - WordStat
+      - Text Mining
+      - Social Network Analysis
+      - Dictionary Building
+      - Text Classification  
+
+    - Zotero Reference Manager  
+      - Literature Indexing
 
      - For programming portfolio, see [my blog](https://taridwong.github.io)  
 
-     - Zotero Reference Manager  
-  
 ## 🏘️ COMMUNITY SERVICES  
   - **Thammasat University (2012 - 2016)**
     - 48th President of psychology student council.  
