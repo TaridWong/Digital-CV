@@ -211,5 +211,8 @@ Thammasat University, Thailand.
      - For programming portfolio, see [my blog](https://taridwong.github.io)  
 
 ## 🏘️ COMMUNITY SERVICES  
+  - **University of Alberta (2020-Present)**
+    - Peer Review Committee for the 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association  
+  
   - **Thammasat University (2012 - 2016)**
     - 48th President of psychology student council.  
