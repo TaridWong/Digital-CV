@@ -24,10 +24,10 @@ University of Alberta (2021 - present)
   
 ## 📚 RESEARCH AND SCHOLARSHIP
 ### Research Interest  
-  - Educational measurement and Psychometric  
-  - Score reporting and educational feedback  
-  - Mixed methods research  
-  - The applicaiton of data science techniques to social science research  <br>  
+  - Educational mMasurement and Psychometric  
+  - Score Reporting and Educational Feedback  
+  - Mixed Methods Research  
+  - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
 ### Peer reviewed journal articles (1):  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>  
