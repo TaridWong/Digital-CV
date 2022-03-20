@@ -24,7 +24,7 @@ University of Alberta (2021 - present)
   
 ## 📚 RESEARCH AND SCHOLARSHIP
 ### Research Interest  
-  - Educational mMasurement and Psychometric  
+  - Educational Measurement and Psychometric  
   - Score Reporting and Educational Feedback  
   - Mixed Methods Research  
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
