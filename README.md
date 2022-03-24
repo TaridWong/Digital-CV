@@ -16,11 +16,14 @@ Ph.D., Measurement, Evaluation, and Data Science
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
 ## 🏆 AWARDS 
+University of Alberta (2021 - present)  
+  - University of Alberta FGSR doctoral recruitment scholarship (5000 CAD) _Winter 2021_ <br>  
+  
+Washington State University (2018-2020)  
+  - INTO Washington State University Scholarship (3000 USD) _Fall 2018_ <br>  
+  
 Thammasat University Graduate (2012-2016)  
   - Award for second-class honored <br>  
-
-University of Alberta (2021 - present)  
-  - University of Alberta FGSR doctoral recruitment scholarship ($5000) _Winter 2021_ <br>  
   
 ## 📚 RESEARCH AND SCHOLARSHIP
 ### Research Interest  
