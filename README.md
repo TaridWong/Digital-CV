@@ -33,7 +33,7 @@ Thammasat University Graduate (2012-2016)
   - Mixed Methods Research  
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
-### Research Interest  
+### Peer Reviewer (2):  
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>
 
@@ -220,10 +220,6 @@ Thammasat University, Thailand.
      - For programming portfolio, see [my blog](https://taridwong.github.io)  
 
 ## 🏘️ COMMUNITY SERVICES  
-  - **University of Alberta (2020-Present)**
-    - Manuscript Reviewer for:  
-      - Alberta Journal of Educational Research
-      - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association  
   
   - **Thammasat University (2012 - 2016)**
     - 48th President of psychology student council.  
