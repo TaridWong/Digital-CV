@@ -37,10 +37,10 @@ Thammasat University Graduate (2012-2016)
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>
 
-### Peer reviewed journal articles (1):  
+### Peer Reviewed Journal Articles (1):  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>  
 
-### Professional conference presentations (8):  
+### Professional Conference Presentations (8):  
   - Bulut , O., Nur Yildirim Erbasli, S., Gorgun, G., Gao, Y., **Wongvorachan, T**., Lai, K.W., Shin, J. (2022 March 21st). Leveraging Online Formative Assessments to Enhance Predictive Learning Analytics Models [Conference Session]. The 12th International Learning Analytics and Knowledge Conference (LAK22). Presented at University of California, Irvine, CA, USA.  <br>  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y.S., Chen, G. (2022, February 18th). [_The Application of Artificial Intelligence in Educational Feedback_](https://user-images.githubusercontent.com/93608415/155227337-7a839e0e-ecfd-4de7-8377-6460fe8a828c.jpg) [Poster presentation]. Reverse Expo 2022. Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y.S. (2022, January 28th). [_Feedback Literacy Framework in the E-Assessment Context_](https://user-images.githubusercontent.com/93608415/152241885-5e67e64d-02b6-4345-8b37-4790743cea29.png) [Poster presentation]. Assessment and Evaluation Conference 2022. Presented at Queen’s University, Kingston, ON, Canada.  <br>  
@@ -51,11 +51,11 @@ Thammasat University Graduate (2012-2016)
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016, July. 8th-9th). _The influence of communication methods on the perception of sadness_ [Conference session]. Thailand National Conference on Psychology: Empowering people in the world of change (TNCP 2016). Presented at Chulalongkorn University, Bangkok, Thailand.  <br>   
 
 
-### Unpublished theses and projects (2):  
+### Unpublished Theses and Projects (2):  
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
   
-### Forthcoming publications- In preparation (3):  
+### Forthcoming Publications- In Preparation (3):  
 
   - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
 
