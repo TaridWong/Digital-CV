@@ -17,8 +17,8 @@ Ph.D., Measurement, Evaluation, and Data Science
 
 ## 🏆 AWARDS 
 University of Alberta (2021 - present)  
-  - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   - Alberta Education Research Partnerships Program Project Grant (14,960 CAD) <br>  
+  - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   
 Washington State University (2018-2020)  
   - INTO Washington State University Scholarship (3000 USD) _Fall 2018_ <br>  
