@@ -15,9 +15,9 @@ Ph.D., Measurement, Evaluation, and Data Science
 [B.A](https://user-images.githubusercontent.com/93608415/140618149-0d3de13c-9868-44d0-bba0-ca58e26c6d49.jpeg)., Psychology  
 [Psychology Program](https://www.psy.arts.tu.ac.th/) - Bangkok, Thailand. _(Aug 2012 - May 2016)_ <br>  
 
-## 🏆 AWARDS 
+## 🏆 AWARDS AND GRANTS  
 University of Alberta (2021 - present)  
-  - Alberta Education Research Partnerships Program Project Grant (14,960 CAD) <br>  
+  - Alberta Education Research Partnerships Program 2022: Project Grant (14,960 CAD) <br>  
   - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   
 Washington State University (2018-2020)  
