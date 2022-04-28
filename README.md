@@ -110,7 +110,7 @@ Thammasat University, Thailand.
   - McCrudden, M. (2019). [_Mixed methods research workshop_](https://user-images.githubusercontent.com/93608415/140589068-ea08232e-2136-4bc8-85c0-96b0cde79708.jpg). Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
   
 ## 💼 PROFESSIONAL CERTIFICATES  
-  - [Explainable Artificial Intelligence (XAI)](https://user-images.githubusercontent.com/93608415/163084649-d53f220f-87e0-46c1-a8a4-55051effdeeb.png), Kaggle, 2022  
+  - [Explainable Artificial Intelligence (XAI)](https://user-images.githubusercontent.com/93608415/165790495-62e98bf6-4b1f-46ec-bbec-45951ce527cb.png), Kaggle, 2022  
   - [Datacamp Data Analyst with R career track certificate](https://user-images.githubusercontent.com/93608415/155830507-726de00b-4a74-4dbd-91d2-6d86cd2bc660.png), Datacamp, 2022  
   - [Datacamp Data Analyst with Python career track certificate](https://user-images.githubusercontent.com/93608415/155829387-12f30c83-5c3a-43f7-92c8-93e05942f098.png), Datacamp, 2022  
   - [Datacamp Machine Learning Scientist with R career track certificate](https://user-images.githubusercontent.com/93608415/155823469-3adb1632-5a33-4df2-90d0-0477b79495e2.png), Datacamp, 2022  
@@ -149,11 +149,11 @@ Thammasat University, Thailand.
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
 
   - **Student Evaluator** (2022-Present), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
-    -  Conducted research on evaluation-related topics  
-    -  Conducted evaluation interviews  
+    -  Developed tools for data collection and data integrity maintenance   
+    -  Conducted research on evaluation-related topics
     -  Summarize, analyze, interpret and evaluate data from evaluation activities  
     -  Participated in the identification of issues for root causes and effects  
-    -  Participated in the formulation of conclusions/recommendations and communication  
+    -  Formulated evaluation conclusions and recommendations 
     -  Prepared and maintained written evaluation report  <br>  
 
   - **Test taker assistance for GED exams** (2021), Universal Exam Solution, Edmonton, AB, Canada.  
