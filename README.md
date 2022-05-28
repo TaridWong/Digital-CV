@@ -40,6 +40,8 @@ Thammasat University Graduate (2012-2016)
 
 ### Peer Reviewed Journal Articles (1):  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
+  
+  
 ### Professional Conference Presentations (10):  
   
   - **Wongvorachan T**., Bulut, O. (2022, May 17th). [_Feedback Generation through Artificial Intelligence_](https://otessa.github.io/2022/tuesday-may-17-2022.html#parallel-session-7.5-transitions-of-online-learning-and-teaching-pse) [Conference Session]. [Open Technology in Education, Society, and Scholarship Association (OTESSA) 2022 Conference](https://otessa.github.io/2022/index.html). Presented at University of Victoria, Greater Victoria, BC, Canada.  
