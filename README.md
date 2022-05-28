@@ -34,6 +34,7 @@ Thammasat University Graduate (2012-2016)
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
 ### Peer Reviewer (2):  
+ - Journal of Mixed Methods Research (2022)  
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>
 
