@@ -42,8 +42,8 @@ Thammasat University Graduate (2012-2016)
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
   
   
-### Professional Conference Presentations (10):  
-  
+### Professional Conference Presentations (11):  
+  - **Wongvorachan, T**., Poth, C., Bulut, O., Otto, S. (2022 August 4th), Leveraging Open Data Sources in Mixed Methods Research [Paper presentation]. 2022 Mixed methods international research association (MMIRA) Global Virtual Conference. Virtual.  
   - **Wongvorachan, T**., Bulut, O. (2022, May 17th). [_Feedback Generation through Artificial Intelligence_](https://otessa.github.io/2022/tuesday-may-17-2022.html#parallel-session-7.5-transitions-of-online-learning-and-teaching-pse) [Conference Session]. [Open Technology in Education, Society, and Scholarship Association (OTESSA) 2022 Conference](https://otessa.github.io/2022/index.html). Presented at University of Victoria, Greater Victoria, BC, Canada.  
   - **Wongvorachan, T**., Clelland, A., Gorgun, G., Bulut, O. (2022, Apr 30th). [_Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach_](https://user-images.githubusercontent.com/93608415/165795960-6129f525-2432-41d8-a98b-e032debe3cfe.png) [Conference Session]. [the 14th Annual Graduate Student Research Showcase: Exploring horizons](https://sites.google.com/ualberta.ca/2022researchshowcase/abstracts-presenters?authuser=0#h.eiy3t147ofiw). Presented at University of Alberta, Edmonton, AB, Canada.  <br>  
   - Bulut, O., Nur Yildirim Erbasli, S., Gorgun, G., Gao, Y., **Wongvorachan, T**., Lai, K.W., Shin, J. (2022 March 21st). Leveraging Online Formative Assessments to Enhance Predictive Learning Analytics Models [Conference Session]. The 12th International Learning Analytics and Knowledge Conference (LAK22). Presented at University of California, Irvine, CA, USA.  <br>  
@@ -174,6 +174,7 @@ Thammasat University, Thailand.
     -  Assisted multidisciplinary professional teams in crisis intervention   
 
 ## 📋 PROFESSIONAL AFFILIATIONS  
+  - Mixed Methods International Research Association [(MMIRA)](https://mmira.wildapricot.org/) _(2022-present)_  
   - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_  
   - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
   - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_  
