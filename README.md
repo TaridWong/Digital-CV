@@ -38,9 +38,9 @@ Thammasat University Graduate (2012-2016)
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>
 
-### Peer Reviewed Journal Articles (1):  
+### Peer Reviewed Journal Articles (2):  
+  - **Wongvorachan T**., Clelland A., Gorgun G., Bulut, O. (In Press). Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach. Alberta Academic Review. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
-  
   
 ### Professional Conference Presentations (11):  
   - **Wongvorachan, T**., Poth, C., Bulut, O., Otto, S. (2022 August 4th), Leveraging Open Data Sources in Mixed Methods Research [Paper presentation]. 2022 Mixed methods international research association (MMIRA) Global Virtual Conference. Virtual.  
