@@ -71,7 +71,14 @@ Thammasat University Graduate (2012-2016)
 ## ✒️ PROFESSIONAL EXPERIENCE  
 
 ### Graduate Research Assistant  
-  - Data Mining of Public Health Briefings: A Mixed Methods Study of Wave 2 & 3 of COVID-19 (Fall 2021), Educational Psychology Department, University of Alberta, Canada.  
+  - Student Perception of Teaching (SPOT) Survey Development (Summer 2022), Educational Psychology Department, University of Alberta, Canada.  
+    -  Coordinate with several student organizing bodies (e.g., student union, international student association, educational student association, graduate student association)  
+    -  Engaged in qualitative data collection  
+    -  Performed thematic analysis  
+    -  Developed test item candidates for the survey  
+    -  Performed psychometric property analysis  
+  
+  - Data Mining of Public Health Briefings: A Mixed Methods Study of wave 2 to wave 6 of COVID-19 (Fall 2021, Spring 2022), Educational Psychology Department, University of Alberta, Canada.  
     -  Engaged in qualitative data mining of public health briefings  
     -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
     -  Developed a key-event timeline of Alberta public health response from news search  
