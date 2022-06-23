@@ -68,7 +68,7 @@ Thammasat University Graduate (2012-2016)
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>  
 
-### ACKNOWLEDGED CONTRIBUTION (2):  
+### Acknowledged Contribution (2):  
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22.  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
