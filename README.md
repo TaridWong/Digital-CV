@@ -81,9 +81,11 @@ Thammasat University Graduate (2012-2016)
   
   - Data Mining of Public Health Briefings: A Mixed Methods Study of wave 2 to wave 6 of COVID-19 (Fall 2021, Spring 2022), Educational Psychology Department, University of Alberta, Canada.  
     -  Engaged in qualitative data mining of public health briefings  
+    -  Engaged in quantitative data mining of COVID-19 provincial case statistics  
     -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
     -  Developed a key-event timeline of Alberta public health response from news search  
-    -  Performed sentiment analysis and topic modeling with COVID-19-related Twitter data  <br>
+    -  Performed sentiment analysis and topic modeling with COVID-19-related Twitter data  
+    -  Performed peer review for a journal article  <br>  
   
 ### Undergraduate Research Assistant  
   - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
