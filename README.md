@@ -34,7 +34,7 @@ Thammasat University Graduate (2012-2016)
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
 ### Peer Reviewed Journal Articles (3):  
-  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (In Press). Artificial Intelligence: Transforming the Future of Feedback in Education. _Journal of Applied Testing Technology_ <br> 
+  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (In Press). Artificial Intelligence: Transforming the Future of Feedback in Education. _Journal of Applied Testing Technology_. <br> 
   - **Wongvorachan T**., Clelland A., Gorgun G., Bulut, O. (In Press). Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach. _Alberta Academic Review_. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
 ### Professional Conference Presentations (11):  
