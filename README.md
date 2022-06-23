@@ -36,7 +36,6 @@ Thammasat University Graduate (2012-2016)
 ### Peer Reviewed Journal Articles (2):  
   - **Wongvorachan T**., Clelland A., Gorgun G., Bulut, O. (In Press). Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach. _Alberta Academic Review_. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
-  
 ### Professional Conference Presentations (11):  
   - **Wongvorachan, T**., Poth, C., Bulut, O., Otto, S. (2022 August 4th), Leveraging Open Data Sources in Mixed Methods Research [Paper presentation]. 2022 Mixed methods international research association (MMIRA) Global Virtual Conference. Virtual.  
   - **Wongvorachan, T**., Bulut, O. (2022, May 17th). [_Feedback Generation through Artificial Intelligence_](https://otessa.github.io/2022/tuesday-may-17-2022.html#parallel-session-7.5-transitions-of-online-learning-and-teaching-pse) [Conference Session]. [Open Technology in Education, Society, and Scholarship Association (OTESSA) 2022 Conference](https://otessa.github.io/2022/index.html). Presented at University of Victoria, Greater Victoria, BC, Canada.  
@@ -62,7 +61,7 @@ Thammasat University Graduate (2012-2016)
   
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The Enhancement of Feedback Literacy Framework to the E-Assessment Context_.  <br>  
   
-## ACADEMIC SERVICE  
+## :bookmark: ACADEMIC SERVICE  
   
 ### Peer Reviewer (3):  
  - Journal of Mixed Methods Research (2022)  
