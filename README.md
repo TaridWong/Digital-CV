@@ -33,11 +33,6 @@ Thammasat University Graduate (2012-2016)
   - Mixed Methods Research  
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
-### Peer Reviewer (3):  
- - Journal of Mixed Methods Research (2022)  
- - Alberta Journal of Educational Research (2021 - 2022)  
- - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>
-
 ### Peer Reviewed Journal Articles (2):  
   - **Wongvorachan T**., Clelland A., Gorgun G., Bulut, O. (In Press). Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach. _Alberta Academic Review_. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
@@ -55,7 +50,6 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**. (2019, October, 14th). [_Cheating behavior in large-scale assessment_](https://github.com/TaridWong/digitalcv/files/7991024/UW.conference.presentation_Tarid.pdf) [Conference session]. Presented at the Research on Psychometrics & Applied Statistics (RPAS) Conference. Presented at University of Washington, Seattle, WA, USA.  <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016, July. 8th-9th). _The influence of communication methods on the perception of sadness_ [Conference session]. Thailand National Conference on Psychology: Empowering people in the world of change (TNCP 2016). Presented at Chulalongkorn University, Bangkok, Thailand.  <br>   
 
-
 ### Unpublished Theses and Projects (2):  
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
@@ -67,6 +61,17 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (in preparation). Artificial Intelligence: Transforming the Future of Feedback in Education.  <br> 
   
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The Enhancement of Feedback Literacy Framework to the E-Assessment Context_.  <br>  
+  
+## ACADEMIC SERVICE  
+  
+### Peer Reviewer (3):  
+ - Journal of Mixed Methods Research (2022)  
+ - Alberta Journal of Educational Research (2021 - 2022)  
+ - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>  
+
+### ACKNOWLEDGED CONTRIBUTION (2):  
+ - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22.  
+ - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
 ## ✒️ PROFESSIONAL EXPERIENCE  
 
