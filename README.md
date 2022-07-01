@@ -71,7 +71,7 @@ Thammasat University Graduate (2012-2016)
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22. https://doi.org/10.1007/s11211-022-00393-4  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
-### Community Contribution (1):  
+### Community Service (1):  
  - 48th President of Psychology Student Council (2012-2016 term). Thammasat University, Bangkok, Thailand.  <br>  
   
 ## ✒️ PROFESSIONAL EXPERIENCE  
