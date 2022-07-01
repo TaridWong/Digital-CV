@@ -191,9 +191,9 @@ Thammasat University, Thailand.
 
 ## 📋 PROFESSIONAL AFFILIATIONS  
   - Mixed Methods International Research Association [(MMIRA)](https://mmira.wildapricot.org/) _(2022-present)_  
-  - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021 - Present)_  
-  - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021 - Present)_  
-  - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018 - Present)_  
+  - National Council of Measurement in Education [(NCME)](https://www.ncme.org/home) _(2021-Present)_  
+  - The E-assessment Association [(eAA)](https://www.e-assessment.com/) _(2021-Present)_  
+  - American Psychological Association: Division 15 [(APA Div15)](https://apadiv15.org/) _(2018-Present)_  
 
 ## 📊 SKILLS
   - Languages  
