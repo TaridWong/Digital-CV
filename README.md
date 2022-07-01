@@ -221,6 +221,7 @@ Thammasat University, Thailand.
       - Unsupervised machine learning models  
       - Natural language processing (NLP)
       - Deep learning (_Tensorflow2_ and _Keras_)  
+      - Explanable Artificial Intelligence (XAI)  
 
     - [Power BI](https://user-images.githubusercontent.com/93608415/155823552-f707cffe-f560-453a-9db9-dff754446803.png)  
       - Data Visualization
