@@ -33,9 +33,10 @@ Thammasat University Graduate (2012-2016)
   - Mixed Methods Research  
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
-### Peer Reviewed Journal Articles (3):  
+### Peer Reviewed Journal Articles (4):  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (In Press). Artificial Intelligence: Transforming the Future of Feedback in Education. _Journal of Applied Testing Technology_. <br> 
-  - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (In Press). Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach. _Alberta Academic Review_. <br>  
+  - Bulut, O., Gorgun, G., Yildirim‐Erbasli, S. N., **Wongvorachan, T**., Daniels, L. M., Gao, Y., ... & Shin, J. (2022). [Standing on the shoulders of giants: Online formative assessments as the foundation for predictive learning analytics models](https://doi.org/10.1111/bjet.13276). _British Journal of Educational Technology_. <br>  
+  - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (2022). [Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach](https://journals.library.ualberta.ca/aar/index.php/aar/article/view/134). _Alberta Academic Review_, _5_(1), 2-2. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br>   
 ### Professional Conference Presentations (11):  
   - **Wongvorachan, T**., Poth, C., Bulut, O., Otto, S. (2022 August 4th), Leveraging Open Data Sources in Mixed Methods Research [Paper presentation]. 2022 Mixed methods international research association (MMIRA) Global Virtual Conference. Virtual.  
@@ -68,7 +69,8 @@ Thammasat University Graduate (2012-2016)
   
 ## :bookmark: ACADEMIC SERVICE  
   
-### Peer Reviewer (3):  
+### Peer Reviewer (4):  
+ - •	National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
  - Journal of Mixed Methods Research (2022)  
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>  
