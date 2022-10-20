@@ -17,7 +17,7 @@ Ph.D., Measurement, Evaluation, and Data Science
 
 ## 🏆 AWARDS AND GRANTS  
 University of Alberta (2021 - present)  
-  - Alberta Education Research Partnerships Program 2021: Project Grant (14,960 CAD) <br>  
+  - Alberta Education Research Partnerships Program 2021: Project Grant _Winter 2022_ (14,960 CAD) <br>  
   - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   
 Washington State University (2018-2020)  
@@ -181,7 +181,7 @@ Thammasat University, Thailand.
   - **Student Evaluator** (2022-Present), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
     -  Developed tools for data collection and data integrity maintenance   
     -  Conducted research on evaluation-related topics
-    -  Summarize, analyze, interpret and evaluate data from evaluation activities  
+    -  Summarized, analyzed, interpreted and evaluated data from evaluation activities  
     -  Participated in the identification of issues for root causes and effects  
     -  Formulated evaluation conclusions and recommendations 
     -  Prepared and maintained written evaluation report  <br>  
