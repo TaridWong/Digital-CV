@@ -71,7 +71,7 @@ Thammasat University Graduate (2012-2016)
 ## :bookmark: ACADEMIC SERVICE  
   
 ### Peer Reviewer (4):  
- - •	National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
+ - National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
  - Journal of Mixed Methods Research (2022)  
  - Alberta Journal of Educational Research (2021 - 2022)  
  - The 14th Annual Graduate Research Showcase of Elementary/Secondary Graduate Students’ Association (2022)  <br>  
@@ -96,14 +96,13 @@ Thammasat University Graduate (2012-2016)
   
   - Data Mining of Public Health Briefings: A Mixed Methods Study of wave 2 to wave 6 of COVID-19 (Fall 2021, Spring 2022), Educational Psychology Department, University of Alberta, Canada.  
     -  Engaged in qualitative data mining of public health briefings  
-    -  Engaged in quantitative data mining of COVID-19 provincial case statistics  
-    -  Identified periods of fluctuation from quantitative data across waves of COVID-19  
+    -  Engaged in quantitative data mining of COVID-19 provincial case statistics   
     -  Developed a key-event timeline of Alberta public health response from news search  
-    -  Performed sentiment analysis and topic modeling with COVID-19-related Twitter data  
-    -  Performed peer review for a journal article  <br>  
+    -  Performed sentiment analysis and topic modeling with COVID-19-related textual data from public health briefing transcripts and Twitter postings  
+    -  Identified periods of fluctuation in Alberta public health data across waves of COVID-19 pandemic with mixed methods findings <br>  
   
 ### Undergraduate Research Assistant  
-  - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom.  
+  - Worldviews and Well-being Cross-Cultural Research Project (2016), Department of Psychology, TU, Thailand; School of Psychology, University of Kent, United Kingdom. 
     -  Engaged in qualitative interview  
     -  Conducted data management and organization  
     -  Performed qualitative coding  <br>  
