@@ -34,7 +34,7 @@ Thammasat University Graduate (2012-2016)
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
 ### Peer Reviewed Journal Articles (4):  
-  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (In Press). Artificial Intelligence: Transforming the Future of Feedback in Education. _Journal of Applied Testing Technology_. <br> 
+  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (2022). [Artificial Intelligence: Transforming the Future of Feedback in Education](https://www.jattjournal.com/index.php/atp/article/view/170387/116663). _Journal of Applied Testing Technology_, _23_(1), 0-0. <br> 
   - Bulut, O., Gorgun, G., Yildirim‐Erbasli, S. N., **Wongvorachan, T**., Daniels, L. M., Gao, Y., ... & Shin, J. (2022). [Standing on the shoulders of giants: Online formative assessments as the foundation for predictive learning analytics models](https://doi.org/10.1111/bjet.13276). _British Journal of Educational Technology_. <br>  
   - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (2022). [Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach](https://journals.library.ualberta.ca/aar/index.php/aar/article/view/134). _Alberta Academic Review_, _5_(1), 2-2. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br> 
