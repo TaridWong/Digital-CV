@@ -154,7 +154,7 @@ Thammasat University, Thailand.
   
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada/  
     -  Assisted faculty with the following courses:  
-        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021, Winter 2022)_  <br>  
+        - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021, Winter 2022, Fall 2022)_  <br>  
     
   - **Tutor in Educational Psychology** (2019 - 2020), Intensive American Language Center (IALC), Washington State University, USA.  
     -  Nominated by the department of kinesiology and educational psychology to assist international students (undergraduate and graduate level) in learning academic English as well as the following courses:  
