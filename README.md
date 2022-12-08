@@ -34,7 +34,6 @@ Thammasat University Graduate (2012-2016)
 
 ### Peer Reviewed Journal Articles (5):  
  - **Wongvorachan, T**., Bulut, O., Tsai, Y.-S., Lindner, M.A. (2022). [Improving Student Feedback Literacy in e-Assessments: A Framework for the Higher Education Context](https://www.mdpi.com/1989300). _Trends in Higher Education_, _1_(1), 16–29. <br>  
-  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (2022). [Artificial Intelligence: Transforming the Future of Feedback in Education](https://www.jattjournal.com/index.php/atp/article/view/170387/116663). _Journal of Applied Testing Technology_, _23_(1), 0-0. <br> 
   - Bulut, O., Gorgun, G., Yildirim‐Erbasli, S. N., **Wongvorachan, T**., Daniels, L. M., Gao, Y., ... & Shin, J. (2022). [Standing on the shoulders of giants: Online formative assessments as the foundation for predictive learning analytics models](https://doi.org/10.1111/bjet.13276). _British Journal of Educational Technology_. <br>  
   - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (2022). [Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach](https://journals.library.ualberta.ca/aar/index.php/aar/article/view/134). _Alberta Academic Review_, _5_(1), 2-2. <br>  
