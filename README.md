@@ -64,17 +64,11 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
   
-### Forthcoming Publications- In Preparation (5):  
-
-  - Wongvorachan, T., Gorgun, G., Tan, B., Bulut, O. (In preparation) Random search algorithm to identify response time thresholds for rapid guessing. <br>  
-
-  - Wongvorachan, T., He, S., Bulut, O. (In preparation) The comparison of imbalance learning technique in educational dataset. <br>  
+### Forthcoming Publications- In Preparation (2):  
 
   - Clelland, A., Wongvorachan T., Gorgun, G., Bulut, O. (In preparation). The ethical use of artificial intelligence in education: A systematic review. <br>
 
   - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
-  
-  - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S. (in preparation). _The Enhancement of Feedback Literacy Framework to the E-Assessment Context_.  <br>  
   
 ## :bookmark: ACADEMIC SERVICE  
   
@@ -87,6 +81,10 @@ Thammasat University Graduate (2012-2016)
 ### Acknowledged Contribution (2):  
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22. https://doi.org/10.1007/s11211-022-00393-4  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
+  
+### Invited Talks (1):  
+
+  - Wongvorachan, T. (2022). (2022 April 1) Utilizing open data with mixed methods research. Mixed methods approaches to educational research. Department of Educational Psychology, University of Alberta, Canada.  
   
 ### Community Service (1):  
  - 48th President of Psychology Student Council (2012-2016 term). Thammasat University, Bangkok, Thailand.  <br>  
