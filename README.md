@@ -166,7 +166,7 @@ Thammasat University, Thailand.
 ## 📜 TEACHING EXPERIENCE  
   
   - **Principal Instructor**, Department of Educational Psychology, University of Alberta, Canada.  
-    -  Assisted faculty with the following courses:  
+    -  Planned, taught, and graded the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2023)_  <br>  
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada.  
     -  Assisted faculty with the following courses:  
