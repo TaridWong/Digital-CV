@@ -84,7 +84,7 @@ Thammasat University Graduate (2012-2016)
   
 ### Invited Talks (1):  
 
-  - Wongvorachan, T. (2022). (2022 April 1) Utilizing open data with mixed methods research. Mixed methods approaches to educational research. Department of Educational Psychology, University of Alberta, Canada.  
+  - Wongvorachan, T. (2022 April 1) _Utilizing open data with mixed methods research_. Mixed methods approaches to educational research. Department of Educational Psychology, University of Alberta, Canada.  
   
 ### Community Service (1):  
  - 48th President of Psychology Student Council (2012-2016 term). Thammasat University, Bangkok, Thailand.  <br>  
