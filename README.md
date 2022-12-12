@@ -70,7 +70,7 @@ Thammasat University Graduate (2012-2016)
 
   - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
   
-## :microphone: ACADEMIC SERVICE  
+## :school: ACADEMIC SERVICE  
   
 ### Peer Reviewer (4):  
  - National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
