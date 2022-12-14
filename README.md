@@ -1,7 +1,7 @@
 # Tarid Wongvorachan
 _Doctoral student in the Measurement, Evaluation, and Data Science (MEDS) program, University of Alberta, Canada._ <br>
   
-[EMAIL](mailto:wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [BLOG](https://taridwong.github.io/about.html) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)  /  [ORCHID](https://orcid.org/0000-0002-9622-3780)
+[EMAIL](mailto:wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [BLOG](https://taridwong.github.io/about.html) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)  /  [ORCHID](https://orcid.org/0000-0002-9622-3780) / [RESEARCH GATE](<a href="https://www.researchgate.net/profile/Tarid_Wongvorachan">Tarid Wongvorachan on ResearchGate</a>)
 
 ## 👩🏼‍🎓 EDUCATION
 Ph.D., Measurement, Evaluation, and Data Science  
