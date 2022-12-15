@@ -70,7 +70,7 @@ Thammasat University Graduate (2012-2016)
 
   - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
   
-## :school: ACADEMIC SERVICE  
+## ACADEMIC SERVICE  
   
 ### Peer Reviewer (4):  
  - National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
@@ -95,7 +95,7 @@ Thammasat University Graduate (2012-2016)
   - Identifying the Predictors of Mathematics Anxiety, Confidence, and Performance in Canada: An Educational Data Mining Approach (Fall 2022, Winter 2022), Educational Psychology Department, University of Alberta, Canada.  
     - Conducted extensive literature review on subject matter  
     - Assisted in the preparation of proposal for grant submission  
-    - •	Contributed to the design of the research project  
+    - Contributed to the design of the research project  
   
   - Student Perception of Teaching (SPOT) Survey Development (Summer 2022), Educational Psychology Department, University of Alberta, Canada.  
     -  Coordinate with several student organizing bodies (e.g., student union, international student association, educational student association, graduate student association)  
