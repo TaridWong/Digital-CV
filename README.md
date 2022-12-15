@@ -65,12 +65,10 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
   
 ### Forthcoming Publications- In Preparation (2):  
-
   - Clelland, A., Wongvorachan T., Gorgun, G., Bulut, O. (In preparation). The ethical use of artificial intelligence in education: A systematic review. <br>
-
   - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
   
-## ACADEMIC SERVICE  
+## :newspaper: ACADEMIC SERVICE  
   
 ### Peer Reviewer (4):  
  - National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
