@@ -32,7 +32,8 @@ Thammasat University Graduate (2012-2016)
   - Mixed Methods Research  
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
-### Peer Reviewed Journal Articles (6):  
+### Peer Reviewed Journal Articles (7):  
+- **Wongvorachan, T**., He, S., Bulut, O. (2023). A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining. _Information_, _14_(1), 54.  <br>  
  - **Wongvorachan, T**., Bulut, O. (2022). [Feedback generation through artificial intelligence](https://doi.org/10.18357/otessac.2022.2.1.125). _The Open/Technology in Education, Society, and Scholarship Association Conference Proceedings_, _2_(1), 1-9. <br>  
  - **Wongvorachan, T**., Bulut, O., Tsai, Y.-S., Lindner, M.A. (2022). [Improving Student Feedback Literacy in e-Assessments: A Framework for the Higher Education Context](https://www.mdpi.com/1989300). _Trends in Higher Education_, _1_(1), 16–29. <br>  
   - **Wongvorachan, T**., Lai, K.W., Bulut, O., Tsai, Y. S., Chen, G. (2022). [Artificial Intelligence: Transforming the Future of Feedback in Education](https://www.jattjournal.com/index.php/atp/article/view/170387/116663). _Journal of Applied Testing Technology_, _23_(1), 0-0. <br> 
