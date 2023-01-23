@@ -63,8 +63,10 @@ Thammasat University Graduate (2012-2016)
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016, July. 8th-9th). _The influence of communication methods on the perception of sadness_ [Conference session]. Thailand National Conference on Psychology: Empowering people in the world of change (TNCP 2016). Presented at Chulalongkorn University, Bangkok, Thailand.  <br>   
 
 ### Preprint Articles and Projects (2):  
+  - **Wongvorachan, T**. (2023). [The impact of classroom competition and cooperation to student academic performance](https://doi.org/10.31234/osf.io/7vugd). PsyArXiv. https://doi.org/10.31234/osf.io/7vugd  <br>  
+  - **Wongvorachan, T**. (2021). [Review of Rorschach Ink-Blot Test: Performance Assessment System (R-PAS®)](https://doi.org/10.31234/osf.io/jts4z). PsyArXiv. https://doi.org/10.31234/osf.io/jts4z  <br>  
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
-  - **Wongvorachan, T**. (2019). [_Review of Rorschach ink-blot test: Performance assessment system_](https://github.com/TaridWong/digitalcv/files/7499420/Review.of.Rorschach.R-PAS.pdf). [Unpublished test review]. Washington State University.  <br>  
+  - **Wongvorachan, T**. (2019). [Cheating detection in tests: A systematic review](https://doi.org/10.31234/osf.io/uc5hj). PsyArXiv. https://doi.org/10.31234/osf.io/uc5hj  <br>  
   
 ### Forthcoming Publications- In Preparation (2):  
   - Clelland, A., Wongvorachan T., Gorgun, G., Bulut, O. (In preparation). The ethical use of artificial intelligence in education: A systematic review. <br>
