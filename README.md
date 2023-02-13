@@ -194,8 +194,12 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
-
-  - **Student Evaluator** (2022-Present), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
+ - **Graduate Student Intern** (2023 - Present), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
+    -  Conducted literature review to support decisions for policy making
+    -  Conducted a scoping review and environmental scan for the issue of accessibility in digital learning resources
+    -  Prepared and maintained written research report  <br>  
+  
+  - **Student Evaluator** (2022), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
     -  Developed tools for data collection and data integrity maintenance   
     -  Conducted research on evaluation-related topics
     -  Summarized, analyzed, interpreted and evaluated data from evaluation activities  
