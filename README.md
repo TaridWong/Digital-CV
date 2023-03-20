@@ -195,7 +195,7 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
- - **Graduate Student Intern** (2023 - Present), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
+ - **Graduate Student Research Intern** (2023 - Present), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
     -  Conducted literature review to support decisions for policy making
     -  Conducted a scoping review and environmental scan for the issue of accessibility in digital learning resources
     -  Prepared and maintained written research report  <br>  
