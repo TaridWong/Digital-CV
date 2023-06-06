@@ -87,8 +87,9 @@ Thammasat University Graduate (2012-2016)
  - Chobthamkit, P., Sutton, R. M., Uskul, A. K., & Chaleeraktrakoon, T. (2022). Personal Versus General Belief in a Just World, Karma, and Well-Being: Evidence from Thailand and the UK. _Social Justice Research_, 1-22. https://doi.org/10.1007/s11211-022-00393-4  
  - Poth, C. N., Molina-Azorin, J. F., & Fetters, M. D. (2022). Virtual Special Issue on “Design of Mixed Methods Research: Past Advancements, Present Conversations, and Future Possibilities.” Journal of Mixed Methods Research. https://doi.org/10.1177/15586898221110375  
   
-### Invited Talks (1):  
-
+### Invited Talks (2):  
+  
+  - Wongvorachan, T. (2023 March 28). _Introduction to mixed methods research_. REHAB 601: Research design in rehabilitation science. Faculty of Rehabilitation Medicine, University of Alberta, Canada.  
   - Wongvorachan, T. (2022 April 1). _Utilizing open data with mixed methods research_. Mixed methods approaches to educational research. Department of Educational Psychology, University of Alberta, Canada.  
   
 ### Community Service (2):  
