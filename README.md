@@ -75,7 +75,8 @@ Thammasat University Graduate (2012-2016)
   
 ## :newspaper: ACADEMIC SERVICE  
   
-### Peer Reviewer (5):  
+### Peer Reviewer (7):  
+ - Patterns (2023)  
  - The Open/Technology in Education, Society, and Scholarship Association Conference (2023)  
  - International Society of the Learning Sciences 2023 Annual Meeting (2022)  
  - National Council of Measurement in Education 2023 Annual Meeting Conference (2022)  
