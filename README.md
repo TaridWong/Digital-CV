@@ -105,7 +105,7 @@ Thammasat University Graduate (2012-2016)
     - Assisted in the development of a survey.  
     - Conducted quantitative analyses to support the development of the survey.  
 
-  - Teacher and School Leader Hope Scale Development (Spring 2022, Summer 2022), Educational Psychology Department, University of Alberta, Canada.  
+  - Teacher and School Leader Hope Scale Development (Spring 2022, Summer 2022), Counseling Psychology Department, University of Alberta, Canada.  
     - Organized and submitted an institutional review board application.  
     - Conducted quantitative analyses to support the development of the scales.  
 
