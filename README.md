@@ -247,7 +247,7 @@ Thammasat University, Thailand.
       - Descriptive Statistics
       - Inferential Statistics  
 
-    - R Programming  
+    - R Programming (including GUI software such as JASP and Jamovi)  
       - Quantitative data management, analysis, and visualization  
       - Qualitative coding and network visualization  
       - Descriptive statistics and data screening  
