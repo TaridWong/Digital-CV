@@ -110,7 +110,7 @@ Thammasat University Graduate (2012-2016)
     - Organized and submitted an institutional review board application.  
     - Conducted quantitative analyses to support the development of the scales.  
 
-  - Identifying the Predictors of Mathematics Anxiety, Confidence, and Performance in Canada: An Educational Data Mining Approach (Fall 2022, Winter 2022), Educational Psychology Department, University of Alberta, Canada.  
+  - Identifying the Predictors of Mathematics Anxiety, Confidence, and Performance in Canada: An Educational Data Mining Approach (Fall 2022, Fall 2024), Educational Psychology Department, University of Alberta, Canada.  
     - Conducted extensive literature review on subject matter  
     - Assisted in the preparation of proposal for grant submission  
     - Contributed to the design of the research project  
