@@ -17,6 +17,7 @@ Ph.D., Measurement, Evaluation, and Data Science
 
 ## 🏆 AWARDS AND GRANTS  
 University of Alberta (2021 - present)  
+  - Alberta Thai Association: Boon-oom/Banyong Scholarship (1000 CAD) _Fall 2023_ <br>  
   - University of Alberta FGSR Doctoral Recruitment Scholarship (5000 CAD) _Winter 2021_ <br>  
   
 Washington State University (2018-2020)  
@@ -117,8 +118,6 @@ Thammasat University Graduate (2012-2016)
   - Student Perception of Teaching (SPOT) Survey Development (Summer 2022), Educational Psychology Department, University of Alberta, Canada.  
     -  Coordinate with several student organizing bodies (e.g., student union, international student association, educational student association, graduate student association)  
     -  Engaged in qualitative data collection  
-    -  Engaged in quantitative data mining of COVID-19 provincial case statistics  
-    -  Performed thematic analysis  
     -  Developed test item candidates for the survey  
     -  Performed psychometric property analysis  
   
