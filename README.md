@@ -76,7 +76,8 @@ Thammasat University Graduate (2012-2016)
   
 ## :newspaper: ACADEMIC SERVICE  
   
-### Peer Reviewer (8):  
+### Peer Reviewer (9):  
+ - Canadian Society for the Study of Education 52nd Annual Conference (2024)  
  - National Council of Measurement in Education 2024 Annual Meeting Conference (2023)  
  - Patterns (2023)  
  - The Open/Technology in Education, Society, and Scholarship Association Conference (2023)  
