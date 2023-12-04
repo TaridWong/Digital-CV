@@ -97,7 +97,9 @@ Thammasat University Graduate (2012-2016)
   - Wongvorachan, T. (2023 March 28). _Introduction to mixed methods research_. REHAB 601: Research design in rehabilitation science. Faculty of Rehabilitation Medicine, University of Alberta, Canada.  
   - Wongvorachan, T. (2022 April 1). _Utilizing open data with mixed methods research_. Mixed methods approaches to educational research. Department of Educational Psychology, University of Alberta, Canada.  
   
-### Community Service (2):  
+### Community Service (4):  
+ - Research method and statistics consultant (2023-2024). Ubekka Juvenile Detention Center. Government of Thailand, Nakhon Pathom, Thailand.  <br>  
+ - Research method and statistics consultant (2023-2024). ASK CRAME sessions. Faculty of Education. University of Alberta, Edmonton, Alberta, Canada.  <br>  
  - Social science judge. Festival of Undergraduate Research and Creative Activities 2023. University of Alberta, Edmonton, Alberta, Canada.  <br>  
  - 48th President of Psychology Student Council (2012-2016 term). Thammasat University, Bangkok, Thailand.  <br>  
   
