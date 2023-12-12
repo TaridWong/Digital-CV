@@ -190,7 +190,7 @@ Thammasat University, Thailand.
   
   - **Principal Instructor**, Department of Educational Psychology, University of Alberta, Canada.  
     -  Planned, taught, and graded the following courses:  
-        - _EDPY 303: Educational Assessment (Winter 2023)_  <br>  
+        - _EDPY 303: Educational Assessment (Winter 2023, 2024)_  <br>  
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada.  
     -  Assisted faculty with the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021, Winter 2022, Fall 2022)_  <br>  
@@ -214,7 +214,7 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
- - **Graduate Student Research Intern** (2023 - Present), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
+ - **Graduate Student Research Intern** (2023), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
     -  Conducted literature review to support decisions for policy making
     -  Conducted a scoping review and environmental scan for the issue of accessibility in digital learning resources
     -  Prepared and maintained written research report  <br>  
