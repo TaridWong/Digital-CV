@@ -33,7 +33,8 @@ Thammasat University Graduate (2012-2016)
   - Mixed Methods Research  
   - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
 
-### Peer Reviewed Journal Articles (8):  
+### Peer Reviewed Journal Articles (9):  
+- Mazzullo, E., Bulut, O., **Wongvorachan, T**., & Tan, B. (2023). Learning analytics in the era of large language models. Analytics, 2(4), 877-898.  <br>  
 - Bulut, O., Gorgun, G., **Wongvorachan, T**., & Tan, B. (2023). [Rapid guessing in low-stakes assessments: Finding the optimal response time threshold with random search and genetic algorithm](https://www.mdpi.com/2120488). _Algorithms_, _16_(2), 89.  <br>  
 - **Wongvorachan, T**., He, S., Bulut, O. (2023). [A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining](https://doi.org/10.3390/info14010054). _Information_, _14_(1), 54.  <br>  
  - **Wongvorachan, T**., Bulut, O. (2022). [Feedback generation through artificial intelligence](https://doi.org/10.18357/otessac.2022.2.1.125). _The Open/Technology in Education, Society, and Scholarship Association Conference Proceedings_, _2_(1), 1-9. <br>  
