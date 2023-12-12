@@ -43,8 +43,8 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**., Clelland A., Gorgun G., Bulut, O. (2022). [Identifying the Predictors of Mathematics Anxiety AND Performance in Canada: An Educational Data Mining Approach](https://journals.library.ualberta.ca/aar/index.php/aar/article/view/134). _Alberta Academic Review_, _5_(1), 2-2. <br>  
   - Swangwiboonpong, N., **Wongvorachan, T**., Kiattiporn-Opas, C., Mayurasakorn, W., Thanasakulprasert, N., Taesilapasathit, C. (2016). [The influence of communication methods on the perception of sadness](http://bsris.swu.ac.th/journal/230160/pdf/4.noppamon55-70.pdf). _Journal of Behavioral Science, 23_(1), 55-70. <br> 
 
-### Professional Conference Presentations (18):  
-  
+### Professional Conference Presentations (19):  
+ - **Wongvorachan, T**., Bulut, O., & Gorgun, G. (2024, April). Evaluating dimensionality in non-cognitive measures: Exploratory vs. hierarchical exploratory graph analysis. Paper to be presented at the annual meeting of the National Council on Measurement in Education, Philadelphia, PA.  
  - **Wongvorachan, T**., Bulut, O., Gorgun, G., Tan, B. (2023 April 12-15). _Random Search Algorithm to Identify Response Time Thresholds for Rapid Guessing_ [Conference Session]. 2023 National Council on Measurement in Education (NCME) Annual Meeting. Presented at Chicago, Illinois, USA.  
  - Gorgun, G., Tan, B., **Wongvorachan, T**., Bulut, O. (2023 April 12-15). Predicting item difficulty from students’ response behaviors. In T. Shuqin (chair), _Predicting item difficulty and response latencies_. [Symposium] 2023 National Council on Measurement in Education (NCME) Annual Meeting, Chicago, Illinois, USA.  
  - Tan, B., Bulut, O., Gorgun, G., **Wongvorachan, T**. (2023 April 12-15). _Mining textual features of questions to predict item parameters_ [Conference Session]. 2023 National Council on Measurement in Education (NCME) Annual Meeting. Presented at Chicago, Illinois, USA.  
