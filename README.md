@@ -217,10 +217,15 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
- - **Graduate Student Research Intern** (2023), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
+ - **Graduate Student Research Assistant** (2024), STEM, Careers, and Indigenous Curriculum sector, Alberta Education, Edmonton, AB, Canada.
+    -  Conducted jurisdictional scans to support curriculum development.  
+    -  Extracted provincial-level insights from an international level educational dataset (PISA).  
+    -  Prepared and maintained high-level research report.  <br>
+ 
+ - **Graduate Student Research Assistant** (2023), Learning & Teaching Resource Sector, Alberta Education, Edmonton, AB, Canada.  
     -  Conducted literature review to support decisions for policy making
     -  Conducted a scoping review and environmental scan for the issue of accessibility in digital learning resources
-    -  Prepared and maintained written research report  <br>  
+    -  Prepared and maintained high-level research report  <br>  
   
   - **Student Evaluator** (2022), The Evaluation group, Audit and Evaluation Branch, Canadian Food Inspection Agency (CFIA), Ottawa, ON, Canada.  
     -  Developed tools for data collection and data integrity maintenance   
