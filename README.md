@@ -28,10 +28,12 @@ Thammasat University Graduate (2012-2016)
   
 ## 📚 RESEARCH AND SCHOLARSHIP
 ### Research Interest  
-  - Educational Measurement and Psychometric  
+  - Educational Measurement and Psychometrics  
   - Score Reporting and Educational Feedback  
   - Mixed Methods Research  
-  - The Applicaiton of Artificial Intelligence to Social Science Research  <br>  
+  - The Applicaiton of Artificial Intelligence to Social Science Research  
+  - Learning Analytics
+  - Educational Data Mining  <br>    
 
 ### Peer Reviewed Journal Articles (11):  
 - **Wongvorachan, T**., Bulut, O., Liu, J.X., Mazzullo, E. (2024). [A comparison of bias mitigation techniques for educational classification tasks using supervised machine learning](https://doi.org/10.3390/info15060326). _Information_, _15_(6), 326.
