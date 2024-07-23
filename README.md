@@ -35,9 +35,11 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (11):  
-- **Wongvorachan, T**., Bulut, O., Liu, J.X., Mazzullo, E. (2024). [A comparison of bias mitigation techniques for educational classification tasks using supervised machine learning](https://doi.org/10.3390/info15060326). _Information_, _15_(6), 326.
-- Poth, C. N., **Wongvorachan, T**., Bulut, O., & Otto, S. J. G. (2024). [Adaptive Case Study-Mixed Methods Design Practices for Researchers Studying Complex Phenomena](https://doi.org/10.1177/15586898241250217). _Journal of Mixed Methods Research_, 0(0).
+### Peer Reviewed Journal Articles (13):  
+- Bulut, O., **Wongvorachan, T**., He, S., Lee, S. (2024). [Enhancing high-school dropout identification: A collaborative approach integrating human and machine insights](https://doi.org/10.1007/s44217-024-00209-4). _Discover Education_, _3_(109).  <br>
+- **Wongvorachan, T**., Srisuttiyakorn, S., & Sriklaub, K. (2024). [Optimizing learning: Predicting research competency via statistical proficiency](https://www.mdpi.com/2813-4346/3/3/32). _Trends in Higher Education_, _3_(3), 540-559.  <br>
+- **Wongvorachan, T**., Bulut, O., Liu, J.X., Mazzullo, E. (2024). [A comparison of bias mitigation techniques for educational classification tasks using supervised machine learning](https://doi.org/10.3390/info15060326). _Information_, _15_(6), 326.  <br>
+- Poth, C. N., **Wongvorachan, T**., Bulut, O., & Otto, S. J. G. (2024). [Adaptive Case Study-Mixed Methods Design Practices for Researchers Studying Complex Phenomena](https://doi.org/10.1177/15586898241250217). _Journal of Mixed Methods Research_, 0(0).  <br>
 - Mazzullo, E., Bulut, O., **Wongvorachan, T**., & Tan, B. (2023). Learning analytics in the era of large language models. _Analytics_, _2_(4), 877-898.  <br>  
 - Bulut, O., Gorgun, G., **Wongvorachan, T**., & Tan, B. (2023). [Rapid guessing in low-stakes assessments: Finding the optimal response time threshold with random search and genetic algorithm](https://www.mdpi.com/2120488). _Algorithms_, _16_(2), 89.  <br>  
 - **Wongvorachan, T**., He, S., Bulut, O. (2023). [A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining](https://doi.org/10.3390/info14010054). _Information_, _14_(1), 54.  <br>  
