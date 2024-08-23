@@ -36,7 +36,7 @@ Thammasat University Graduate (2012-2016)
   - Educational Data Mining  <br>    
 
 ### Peer Reviewed Journal Articles (14):  
-- Thampanichwat, C.; **Wongvorachan, T**.; Bunyarittikit, S.; Chunhajinda, P.; Phaibulputhipong, P.; Wongmahasiri, R. (2024). [The architectural design strategies that promote attention to foster mindfulness: A systematic review, content analysis and meta-analysis](https://www.mdpi.com/2075-5309/14/8/2508). _Buildings 2024_, _14_(28), 14, 2508.
+- Thampanichwat, C.; **Wongvorachan, T**.; Bunyarittikit, S.; Chunhajinda, P.; Phaibulputhipong, P.; Wongmahasiri, R. (2024). [The architectural design strategies that promote attention to foster mindfulness: A systematic review, content analysis and meta-analysis](https://www.mdpi.com/2075-5309/14/8/2508). _Buildings_, _14_(28), 14, 2508.
 - Bulut, O., **Wongvorachan, T**., He, S., Lee, S. (2024). [Enhancing high-school dropout identification: A collaborative approach integrating human and machine insights](https://doi.org/10.1007/s44217-024-00209-4). _Discover Education_, _3_(109).  <br>
 - **Wongvorachan, T**., Srisuttiyakorn, S., & Sriklaub, K. (2024). [Optimizing learning: Predicting research competency via statistical proficiency](https://www.mdpi.com/2813-4346/3/3/32). _Trends in Higher Education_, _3_(3), 540-559.  <br>
 - **Wongvorachan, T**., Bulut, O., Liu, J.X., Mazzullo, E. (2024). [A comparison of bias mitigation techniques for educational classification tasks using supervised machine learning](https://doi.org/10.3390/info15060326). _Information_, _15_(6), 326.  <br>
