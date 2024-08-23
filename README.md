@@ -35,12 +35,13 @@ Thammasat University Graduate (2012-2016)
   - Learning Analytics
   - Educational Data Mining  <br>    
 
-### Peer Reviewed Journal Articles (13):  
+### Peer Reviewed Journal Articles (14):  
+- Thampanichwat, C.; **Wongvorachan, T**.; Bunyarittikit, S.; Chunhajinda, P.; Phaibulputhipong, P.; Wongmahasiri, R. (2024). [The architectural design strategies that promote attention to foster mindfulness: A systematic review, content analysis and meta-analysis](https://www.mdpi.com/2075-5309/14/8/2508). _Buildings 2024_, _14_(28), 14, 2508.
 - Bulut, O., **Wongvorachan, T**., He, S., Lee, S. (2024). [Enhancing high-school dropout identification: A collaborative approach integrating human and machine insights](https://doi.org/10.1007/s44217-024-00209-4). _Discover Education_, _3_(109).  <br>
 - **Wongvorachan, T**., Srisuttiyakorn, S., & Sriklaub, K. (2024). [Optimizing learning: Predicting research competency via statistical proficiency](https://www.mdpi.com/2813-4346/3/3/32). _Trends in Higher Education_, _3_(3), 540-559.  <br>
 - **Wongvorachan, T**., Bulut, O., Liu, J.X., Mazzullo, E. (2024). [A comparison of bias mitigation techniques for educational classification tasks using supervised machine learning](https://doi.org/10.3390/info15060326). _Information_, _15_(6), 326.  <br>
 - Poth, C. N., **Wongvorachan, T**., Bulut, O., & Otto, S. J. G. (2024). [Adaptive Case Study-Mixed Methods Design Practices for Researchers Studying Complex Phenomena](https://doi.org/10.1177/15586898241250217). _Journal of Mixed Methods Research_, 0(0).  <br>
-- Mazzullo, E., Bulut, O., **Wongvorachan, T**., & Tan, B. (2023). Learning analytics in the era of large language models. _Analytics_, _2_(4), 877-898.  <br>  
+- Mazzullo, E., Bulut, O., **Wongvorachan, T**., & Tan, B. (2023). [Learning analytics in the era of large language models](https://www.mdpi.com/2813-2203/2/4/46). _Analytics_, _2_(4), 877-898.  <br>  
 - Bulut, O., Gorgun, G., **Wongvorachan, T**., & Tan, B. (2023). [Rapid guessing in low-stakes assessments: Finding the optimal response time threshold with random search and genetic algorithm](https://www.mdpi.com/2120488). _Algorithms_, _16_(2), 89.  <br>  
 - **Wongvorachan, T**., He, S., Bulut, O. (2023). [A comparison of undersampling, oversampling, and SMOTE methods for dealing with imbalanced classification in educational data mining](https://doi.org/10.3390/info14010054). _Information_, _14_(1), 54.  <br>  
  - **Wongvorachan, T**., Bulut, O. (2022). [Feedback generation through artificial intelligence](https://doi.org/10.18357/otessac.2022.2.1.125). _The Open/Technology in Education, Society, and Scholarship Association Conference Proceedings_, _2_(1), 1-9. <br>  
@@ -81,9 +82,8 @@ Thammasat University Graduate (2012-2016)
   - **Wongvorachan, T**. (2020). [_Cheating behavior in high-stakes test: A synthesis statement_](https://github.com/TaridWong/digitalcv/files/7489804/Master.Project_Tarid.pdf). [Unpublished Master’s final project]. Washington State University.  <br>  
   - **Wongvorachan, T**. (2019). Cheating detection in tests: A systematic review. PsyArXiv. https://doi.org/10.31234/osf.io/uc5hj  <br>  
   
-### Forthcoming Publications- In Preparation (2):  
+### Forthcoming Publications- In Preparation (1):  
   - Clelland, A., Wongvorachan T., Gorgun, G., Bulut, O. (In preparation). The ethical use of artificial intelligence in education: A systematic review. <br>
-  - Poth, C., **Wongvorachan, T**., Bulut, O., Otto, S. (in preparation). Leveraging Open Data in Mixed Methods Designs to Inform Public Health Messaging During the Onset of the COVID-19 Pandemic.  <br>
   
 ## :newspaper: ACADEMIC SERVICE  
   
