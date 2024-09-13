@@ -292,12 +292,12 @@ Thammasat University, Thailand.
       - Explainable Artificial Intelligence (XAI)  
         
      - SQL  
-      - Dataset extraction from relaitonal database  
-      - Queries specification
-          - Filtering  
-          - Aggregating  
-          - Sorting and Grouping  
-          - Joining  
+          - Dataset extraction from relaitonal database  
+          - Queries specification
+              - Filtering  
+              - Aggregating  
+              - Sorting and Grouping  
+              - Joining  
         
     - [Power BI](https://user-images.githubusercontent.com/93608415/155823552-f707cffe-f560-453a-9db9-dff754446803.png)  
       - Data Visualization
