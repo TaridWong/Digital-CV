@@ -198,7 +198,8 @@ Thammasat University, Thailand.
   - [Datacamp Natural Language Processing in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588687-6e64521a-024e-416b-9ccb-2d8df94a090c.jpg), Datacamp, 2021  
   - [Datacamp Deep Learning in Python skill track certificate](https://user-images.githubusercontent.com/93608415/140588721-276bae75-8ad5-46a2-abdd-28f5c2a13c68.jpg), Datacamp, 2021
   - [Datacamp SQL Fundamentals skill track certificate](https://github.com/user-attachments/assets/d2822de6-db4e-495e-b80e-69b6e6914472), Datacamp, 2024  
-
+  - [Datacamp SQL Fundamentals skill track certificate](https://github.com/user-attachments/assets/e51268ca-c315-4bc4-8aff-87b6904aafe5), Datacamp, 2024
+    
 ## 📜 TEACHING EXPERIENCE  
   
   - **Principal Instructor**, Department of Educational Psychology, University of Alberta, Canada.  
@@ -298,10 +299,11 @@ Thammasat University, Thailand.
               - Aggregating  
               - Sorting and Grouping  
               - Joining  
-        
-    - [Power BI](https://user-images.githubusercontent.com/93608415/155823552-f707cffe-f560-453a-9db9-dff754446803.png)  
+     
+    - Power BI  
       - Data Visualization
-      - Data Analysis Expression (DAX)  
+      - Data Analysis Expression (DAX)
+      - Data preparation and modeling
 
     - QDA Miner  
       - Database scraping from social media (i.e., Facebook, Reddit, RSS, Twitter, and Youtube)
