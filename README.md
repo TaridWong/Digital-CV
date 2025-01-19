@@ -207,9 +207,12 @@ Thammasat University, Thailand.
     
 ## 📜 TEACHING EXPERIENCE  
   
-  - **Principal Instructor**, Department of Educational Psychology, University of Alberta, Canada.  
-    -  Planned, taught, and graded the following courses:  
-        - _EDPY 303: Educational Assessment (Winter 2023, 2024)_  <br>  
+  - **Principal Instructor**, .  
+    -  Faculty of Education, Chulalongkorn University, Thailand:
+        - _2758701: Learning Analytics in Education_ (2024) <br>  
+        - _2758706: Data Analytics for Educational Decision Making_ (2025) <br>  
+    -  Department of Educational Psychology, University of Alberta, Canada:  
+        - _EDPY 303: Educational Assessment_ (Winter 2023, 2024) <br>  
   - **Graduate Teaching Assistant**, Department of Educational Psychology, University of Alberta, Canada.  
     -  Assisted faculty with the following courses:  
         - _EDPY 303: Educational Assessment (Winter 2021, Fall 2021, Winter 2022, Fall 2022, Fall 2023)_  <br>  
@@ -233,6 +236,14 @@ Thammasat University, Thailand.
     -  Proctored quizzes and graded papers  <br>  
    
 ## 🛠️ NON-ACADEMIC WORK EXPERIENCE  
+ - **Psychometrician** (2024 - Present), Education Quality and Accountability Office, Government of Ontario, Ontario, Canada.
+    -  Supported the development and maintenance of standardized testing programs to uphold educational accountability.
+    -  Ensured data accuracy and integrity within live operational test environments through meticulous data checks.
+    -  Conducted User Acceptance Testing (UAT) for test windows, demonstrating exceptional attention to detail.
+    -  Translated complex technical results into clear, actionable insights for non-technical stakeholders, fostering cross-functional understanding and collaboration.
+    -  Delivered psychometric training to non-technical stakeholders, including directors and educational officers, to enhance program knowledge and operational effectiveness.
+    -  Conducted data science tasks as a cross-functional collaborator, validating the analyses performed by data analysts to ensure the accuracy and quality of results.  <br>
+    
  - **Graduate Student Research Assistant** (2024), STEM, Careers, and Indigenous Curriculum sector, Alberta Education, Edmonton, AB, Canada.
     -  Conducted jurisdictional scans to support curriculum development.  
     -  Extracted provincial-level insights from an international level educational dataset (PISA).  
