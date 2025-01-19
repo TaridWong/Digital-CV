@@ -1,11 +1,11 @@
 # Tarid Wongvorachan
-_Doctoral candidate in the Measurement, Evaluation, and Data Science (MEDS) program, University of Alberta, Canada._ <br>
+_Psychometrician, Education Quality and Accountability Office, Government of Ontario, Ontario, Canada._ <br>
   
 [EMAIL](mailto:wongvora@ualberta.ca) / [GITHUB](https://github.com/TaridWong) / [LINKEDIN](https://www.linkedin.com/in/tarid-wongvorachan-8ab264129/) / [BLOG](https://taridwong.github.io/about.html) / [CRAME LABORATORY](https://sites.google.com/ualberta.ca/crame)  /  [ORCHID](https://orcid.org/0000-0002-9622-3780) / [RESEARCHGATE](https://www.researchgate.net/profile/Tarid_Wongvorachan?ev=hdr_xprf) / [SHINYAPP DEMO](https://taridwong.shinyapps.io/plumber-api/) / [AUTHORED R PACKAGE:CTTVis](https://github.com/TaridWong/CTTvis)
 
 ## 👩🏼‍🎓 EDUCATION
 Ph.D., Measurement, Evaluation, and Data Science  
-[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) - Edmonton, AB, Canada _(Jan 2021 - Present)_  <br>  
+[MEDS Program](https://www.ualberta.ca/educational-psychology/graduate-programs/measurement-evaluation-and-data-sciences/index.html) - Edmonton, AB, Canada _(Jan 2021 - Dec 2024)_  <br>  
   - Under supervision of [Dr. Okan Bulut](https://sites.google.com/ualberta.ca/okanbulut) 
 
 [M.Ed](https://user-images.githubusercontent.com/93608415/140589122-3d8f48a5-e564-4c5b-84c8-fb11e448a452.jpg)., Educational Psychology  
@@ -188,8 +188,9 @@ Thammasat University, Thailand.
   
 ## 🗃️ PROFESSIONAL WORKSHOP AND TRAINING
   - McCrudden, M. (2019). [_Mixed methods research workshop_](https://user-images.githubusercontent.com/93608415/140589068-ea08232e-2136-4bc8-85c0-96b0cde79708.jpg). Workshop attended at the Learning and Performance Research Center (LPRC), Washington State University, Pullman, WA, USA.  
-  
+
 ## 💼 PROFESSIONAL CERTIFICATES  
+  - [Certificate of Professional Data Scientist](https://github.com/user-attachments/assets/d3b3f3a2-ed96-46a8-9608-7d8bae7190a0), Datacamp, 2025.
   - [Explainable Artificial Intelligence (XAI)](https://user-images.githubusercontent.com/93608415/165790495-62e98bf6-4b1f-46ec-bbec-45951ce527cb.png), Kaggle, 2022  
   - [Datacamp Data Analyst with R career track certificate](https://user-images.githubusercontent.com/93608415/155830507-726de00b-4a74-4dbd-91d2-6d86cd2bc660.png), Datacamp, 2022  
   - [Datacamp Data Analyst with Python career track certificate](https://user-images.githubusercontent.com/93608415/155829387-12f30c83-5c3a-43f7-92c8-93e05942f098.png), Datacamp, 2022  
